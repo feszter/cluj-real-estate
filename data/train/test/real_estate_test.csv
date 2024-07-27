@@ -1,0 +1,2268 @@
+Location,Price,Commission,TVA,Rooms,Size,Floor,Composition
+Marasti,133300,,True,3,62.0, 3/6, Semidec
+Calea Turzii,129000,Comision 0%,False,2,50.0, 2/6, Semidec
+Semicentral,184900,,False,2,57.0, 4/6, Dec
+Zorilor,144900,,False,2,44.55, 1/4, Dec
+Zorilor,104179,,True,1,41.0, 1/4, Semidec
+Zorilor,97000,,False,2,39.0, 1/4, Semidec
+Gheorgheni,289000,,False,3,90.0, 10/10, Semidec
+Manastur,155000,,False,2,51.0, 10/24, Semidec
+Buna Ziua,205000,,False,3,82.0, 5/6, Dec
+Gheorgheni,195000,,False,3,67.0, 2/9, Semidec
+Gheorgheni,132000,,False,2,54.0, Parter/4, Semidec
+Zorilor,179000,,False,4,78.0, 3/4, Dec
+Marasti,145100,Comision 0%,True,2,48.0, 3/7, Dec
+Manastur,114900,Comision 0%,False,2,54.0, Parter/8, Dec
+Gheorgheni,150000,,False,2,64.0, 3/10, Dec
+Gheorgheni,214999,,False,2,70.0, 7/8, Semidec
+Semicentral,137100,,False,2,58.0, 2/6, Semidec
+Marasti,135000,,False,2,45.0, 9/10, Dec
+Marasti,156060,,False,2,52.0, Parter/4, Semidec
+Plopilor,120000,,False,2,32.52, 4/4, Semidec
+Gheorgheni,142000,,False,3,56.0, Parter/2, Dec
+Central,340000,,False,3,87.0, 1/1, Dec
+Manastur,103000,Comision 0%,False,2,43.0, 7/7, Semidec
+Gheorgheni,249000,,False,3,66.79, 5/7, Semidec
+Gheorgheni,235000,,False,3,73.0, 2/8, Dec
+Gheorgheni,165000,,False,3,60.0, 2/4, Semidec
+Manastur,94500,,False,2,43.0, 4/10, Dec
+Borhanci,225000,,False,3,80.0, 2/3, Semidec
+Buna Ziua,155000,,False,2,53.0, 1/6, Semidec
+Marasti,129000,,False,1,47.0, 5/10, Semidec
+Zorilor,187000,Comision 0%,False,2,51.0, 8/14, Semidec
+Zorilor,179000,,False,3,85.0, Parter/4, Semidec
+Central,340000,,False,3,87.0, 1/1, Dec
+Marasti,139000,,False,3,62.0, 1/4, Dec
+Iris,107500,,False,1,38.0, 5/6, Semidec
+Marasti,126500,Comision 0%,False,2,49.1, 8/9, Semidec
+Marasti,130000,,False,2,40.0, 5/7, Semidec
+Marasti,189000,,False,3,68.0, 3/4, Dec
+Central,237000,,False,2,60.0, 1/5, Semidec
+Marasti,75900,,False,1,32.0, 4/4, Semidec
+Grigorescu,250000,Comision 0%,False,3,86.0, 1/6, Semidec
+Gheorgheni,185000,,False,3,60.0, Parter/8, Semidec
+Zorilor,136000,,False,2,50.0, 4/4, Dec
+Gheorgheni,184700,Comision 0%,True,3,69.69, 1/7, Semidec
+Central,455000,Comision 0%,False,3,127.0, 3/3, Dec
+Marasti,239900,,False,3,95.0, 1/3, Dec
+Gheorgheni,135900,,False,2,54.0, 1/8, Semidec
+Marasti,136900,,False,2,57.0, 2/5, Dec
+Marasti,167000,Comision 0%,False,2,56.0, 6/8, Dec
+Grigorescu,115000,,False,2,48.94, 4/10, Dec
+Manastur,134000,,False,3,51.0, 3/4, Semidec
+Zorilor,79500,,False,1,26.0, Parter/2, Semidec
+Marasti,155900,,False,2,50.4, 6/6, Semidec
+Manastur,89900,,False,2,39.8, 4/4, Semidec
+Ultracentral,260000,,False,3,82.0, 4/4, Semidec
+Marasti,133300,,False,2,62.0, 4/5, Dec
+Grigorescu,245000,,False,2,65.0, 2/4, Semidec
+Gheorgheni,104670,,False,1,37.0, 1/6, Dec
+Gheorgheni,161300,,False,2,59.0, 1/7, Semidec
+Marasti,275000,,False,3,75.0, 4/7, Dec
+Manastur,85000,,False,2,36.0, 4/4, Semidec
+Marasti,129216,,False,1,40.0, 2/4, Semidec
+Grigorescu,145000,,False,2,46.0, 9/10, Semidec
+Marasti,122500,,False,2,55.32, Parter/1, Dec
+Marasti,139000,,False,3,62.0, 1/4, Semidec
+Gheorgheni,140000,,False,2,53.0, 6/7, Semidec
+Gheorgheni,106000,,False,1,41.0, 4/7, Dec
+Zorilor,179999,,False,4,98.0, 4/4, Dec
+Gheorgheni,150000,,False,2,57.0, 3/3, Dec
+Grigorescu,248960,,False,3,77.8, 1/4, Semidec
+Marasti,119584,,False,1,37.0, Parter/4, Semidec
+Andrei Muresanu,170800,,True,2,61.0, 1/4, Dec
+Semicentral,147200,,False,2,56.0, Parter/6, Semidec
+Gheorgheni,75000,,False,2,27.0, 3/4, Semidec
+Semicentral,143000,,False,2,58.0, 3/6, Semidec
+Semicentral,133700,,False,2,59.0, Parter/6, Semidec
+Central,170000,,False,3,60.0, 4/4, Semidec
+Semicentral,137600,Comision 0%,True,2,52.91, Parter/6, Semidec
+Central,183000,,False,2,58.0, 12/23, Semidec
+Gara,115257,,False,1,38.0, 1/6, Semidec
+Dambul Rotund,144000,,False,2,61.0, 5/6, Semidec
+Grigorescu,206560,,False,3,64.55, 1/4, Semidec
+Marasti,239000,,False,3,68.0, 4/4, Dec
+Marasti,150000,,False,2,64.0, 3/7, Dec
+Iris,136773,,False,3,75.15, 1/3, Semidec
+Zorilor,150000,,False,3,52.0, Parter/3, Semidec
+Zorilor,188000,Comision 0%,True,3,70.0, 14/14, Dec
+Dambul Rotund,123000,,False,2,48.0, 6/6, Semidec
+P-ta Mihai Viteazul,300000,,False,3,70.0, 8/8, Semidec
+Marasti,130000,,False,2,52.0, Parter/4, Dec
+Iris,115000,,False,2,51.02, 4/7, Semidec
+Borhanci,192456,,False,3,78.67, 3/3, Semidec
+Marasti,110000,,False,1,40.0, 4/4, Dec
+Manastur,107000,,False,2,40.0, 4/4, Dec
+Calea Turzii,308000,,False,3,85.0, 8/9, Semidec
+Central,180000,Comision 0%,False,2,50.0, Parter/2, Semidec
+Central,405000,,False,3,121.0, 3/3, Dec
+Central,330000,,False,2,83.0, 4/5, Semidec
+Central,349000,,False,3,81.0, 1/1, Semidec
+Central,300000,,False,3,71.7, 8/8, Semidec
+Zorilor,425000,,False,4,105.0, 6/6, Dec
+Semicentral,150000,,False,2,57.7, 2/22, Semidec
+Dambul Rotund,118900,,False,2,48.0, 6/6, Dec
+Grigorescu,449999,,False,3,90.0, Parter/1, Semidec
+Gara,168800,,False,3,73.75, 3/6, Semidec
+Central,165000,,False,2,50.0, Parter/1, Dec
+Plopilor,172000,,False,3,63.0, 4/4, Dec
+Sopor,185000,,False,3,74.0, 1/8, Semidec
+Central,140000,,False,2,44.0, Parter/1, Semidec
+Iris,115000,,False,3,61.0, Parter/2, Dec
+Semicentral,190350,,False,2,58.0, 5/6, Semidec
+Zorilor,263200,,False,4,94.0, 10/14, Semidec
+Zorilor,254000,,False,3,79.0, Parter/10, Semidec
+Manastur,145000,,False,3,61.0, Parter/4, Dec
+Europa,204000,,False,2,68.0, 3/4, Semidec
+Manastur,180000,,False,4,95.0, 4/4, Semidec
+Gheorgheni,185000,,False,3,61.0, 1/4, Dec
+Central,196700,,False,4,92.0, 4/6, Semidec
+Marasti,191400,,False,3,87.0, 1/3, Semidec
+Plopilor,341250,,False,4,136.0, 1/10, Dec
+Buna Ziua,269000,,False,3,74.0, 8/9, Semidec
+Central,129000,,True,2,69.0, 3/6, Semidec
+Manastur,134900,,False,3,67.0, 9/9, Semidec
+Iris,92774,Comision 0%,False,2,56.18, Parter/3, Semidec
+Central,270000,,False,3,94.0, 1/3, Semidec
+Zorilor,285000,,False,4,100.0, 9/12, Dec
+Central,162000,,False,1,46.0, Parter/3, Semidec
+Borhanci,169800,Comision 0%,False,2,60.0, Parter/4, Semidec
+Manastur,115999,,False,2,54.0, Parter/10, Dec
+Manastur,153000,,False,3,66.6, 3/9, Semidec
+Grigorescu,170000,,False,3,70.0, 8/8, Semidec
+Zorilor,179000,,False,4,76.22, 3/4, Dec
+Manastur,152000,,False,3,65.0, 4/4, Semidec
+Gheorgheni,365000,,False,4,112.0, 6/7, Semidec
+Manastur,79900,,False,2,35.0, 2/4, Semidec
+Intre Lacuri,127000,,False,2,50.0, 4/8, Dec
+Marasti,199990,,False,3,96.0, 2/3, Semidec
+Manastur,94000,,False,2,40.0, 4/4, Dec
+Marasti,137900,,False,3,65.26, 4/4, Dec
+Zorilor,165000,,False,3,67.0, 1/5, Semidec
+Manastur,176999,,False,4,81.0, 3/4, Dec
+Gara,88100,,False,2,44.05, 4/8, Semidec
+Manastur,250000,,False,4,95.0, 4/8, Semidec
+Manastur,94000,,False,2,53.5, Parter/7, Semidec
+Manastur,154000,,False,2,54.0, 5/10, Dec
+Iris,129000,,False,2,55.0, 1/4, Semidec
+Intre Lacuri,128000,,False,2,51.0, 4/4, Dec
+Europa,165000,,False,2,53.92, Parter/5, Semidec
+Manastur,145000,,False,3,53.0, Parter/4, Semidec
+Buna Ziua,122000,,False,2,41.0, Parter/4, Semidec
+Grigorescu,106000,,False,3,56.0, Parter/4, Semidec
+Buna Ziua,187000,,False,3,70.15, 3/3, Semidec
+Central,189000,,False,3,70.0, Parter/1, Semidec
+Manastur,139990,,False,3,81.5, 5/6, Semidec
+Manastur,96000,,False,2,47.0, 4/4, Semidec
+Grigorescu,100000,,False,2,50.12, 10/10, Dec
+Marasti,145000,,False,2,58.0, 3/4, Dec
+Manastur,110000,,False,3,58.0, 1/4, Semidec
+Zorilor,109900,,False,2,45.0, 2/10, Semidec
+Iris,71900,Comision 0%,False,2,43.54, 3/3, Semidec
+Gheorgheni,275000,,False,3,82.0, 1/8, Dec
+Manastur,130000,,False,3,72.0, 1/5, Semidec
+Iris,74500,,False,2,39.5, 2/4, Semidec
+Manastur,109500,,False,2,58.0, 1/3, Semidec
+Grigorescu,99000,,False,2,47.61, 4/4, Dec
+Buna Ziua,158960,Comision 0%,False,2,61.5, Parter/10, Semidec
+Central,130000,,False,3,58.0, 1/1, Semidec
+Manastur,67500,,False,1,24.85, 1/4, Semidec
+Manastur,106000,,False,2,40.0, 1/8, Dec
+Iris,66000,,False,1,35.0, 2/2, Semidec
+Manastur,86700,,False,2,56.0, 1/4, Semidec
+Buna Ziua,125000,,False,2,45.5, 10/10, Semidec
+Marasti,178000,,False,3,65.0, 1/4, Dec
+Zorilor,163000,,False,3,108.0, Ultimele 2 e/3, Dec
+Manastur,175000,,False,4,78.0, 2/4, Circular]
+Grigorescu,175000,,False,3,69.0, 4/4, Semidec
+Ultracentral,299900,,False,3,70.0, 8/8, Semidec
+Manastur,82000,,False,1,40.0, 1/3, Dec
+Marasti,139000,,False,2,62.0, 1/5, Semidec
+Zorilor,165000,,False,3,65.0, Parter/4, Dec
+Sopor,285000,,False,4,115.08, 6/7, Dec
+Manastur,120000,,False,2,60.0, 4/4, Dec
+Manastur,68000,,False,1,28.5, Parter/4, Semidec
+Zorilor,139000,,False,3,66.0, 4/4, Dec
+Buna Ziua,115000,,False,2,46.0, Parter/3, Semidec
+Marasti,135000,,False,2,45.0, 9/10, Dec
+Zorilor,175000,,False,2,57.0, 12/14, Semidec
+Marasti,110000,,False,2,44.5, 4/6, Semidec
+Andrei Muresanu,87000,,False,2,54.0, Demisol/3, Semidec
+Becas,140000,,False,2,43.0, 2/2, Semidec
+Iris,129000,,False,2,55.0, 1/3, Semidec
+Buna Ziua,269000,,False,3,72.0, 8/9, Semidec
+Europa,198500,,False,3,71.0, 1/2, Semidec
+Central,349000,,False,3,81.0, 1/2, Dec
+Central,72000,,False,1,21.0, 4/4, Dec
+Gruia,118000,,False,2,38.0, 4/4, Dec
+Marasti,179000,Comision 0%,False,3,72.0, 6/7, Dec
+Manastur,150000,,False,4,70.0, 8/10, Dec
+Marasti,160000,,False,3,64.0, Parter/4, Dec
+Gruia,90000,,False,1,39.0, 3/3, Dec
+Marasti,167000,Comision 0%,False,2,55.2, 6/8, Semidec
+Marasti,142000,,False,2,54.0, 1/4, Semidec
+Ultracentral,350000,,False,3,90.0, 1/1, Circular]
+Manastur,90000,,False,2,49.0, Parter/4, Semidec
+Andrei Muresanu,142000,,False,2,52.0, 1/4, Semidec
+Gheorgheni,127990,Comision 0%,False,2,50.0, Parter/10, Semidec
+Zorilor,299000,,False,4,120.0, 2/3, Dec
+Zorilor,107000,Comision 0%,False,1,38.0, Parter/4, Nedec
+Manastur,115000,,False,2,43.0, 1/10, Dec
+Central,109900,,False,2,45.0, Parter/4, Dec
+Manastur,134900,,False,2,51.0, 1/2, Dec
+Borhanci,147000,,False,2,52.0, 1/4, Semidec
+Buna Ziua,224000,,False,3,73.0, 1/2, Semidec
+Gheorgheni,93254,Comision 0%,True,1,36.91, 2/7, Semidec
+Gheorgheni,147000,,False,2,51.0, 8/10, Dec
+Marasti,127000,,False,2,52.0, Parter/4, Dec
+Ultracentral,205000,,False,3,70.0, 1/4, Dec
+Buna Ziua,390000,Comision 0%,False,3,113.0, 5/6, Dec
+Gheorgheni,135000,,False,2,44.0, Parter/10, Semidec
+Marasti,74000,Comision 0%,False,1,23.0, Parter/4, Nedec
+Buna Ziua,129000,,False,2,41.0, Parter/3, Semidec
+Marasti,159000,,False,2,54.0, 2/5, Dec
+Manastur,150000,,False,3,68.0, 6/10, Semidec
+Manastur,169900,,False,3,76.0, 2/3, Dec
+Horea,99000,,False,2,44.0, 2/4, Semidec
+Marasti,209000,,False,3,68.0, 1/4, Dec
+Intre Lacuri,189000,,False,3,65.88, 9/9, Semidec
+Gheorgheni,137500,,False,2,46.0, 6/10, Semidec
+Gheorgheni,165000,,False,2,55.0, Parter/10, Semidec
+Gheorgheni,235000,,False,3,74.0, 2/7, Dec
+Gheorgheni,75000,,False,2,27.0, 3/4, Semidec
+Gheorgheni,107000,,False,2,44.0, Parter/10, Semidec
+Bulgaria,128000,Comision 0%,False,2,44.0, 3/7, Dec
+Grigorescu,100000,,False,2,48.0, 4/4, Semidec
+Manastur,82500,,False,2,36.0, 4/4, Semidec
+Manastur,170000,,False,2,42.0, 6/25, Dec
+Borhanci,149999,,False,2,56.0, 1/3, Dec
+Gara,228000,,True,3,85.0, Parter/6, Semidec
+Manastur,135000,,False,3,65.0, 4/4, Dec
+Zorilor,177000,,False,4,78.0, 3/4, Dec
+Europa,166000,,False,3,61.0, Parter/3, Semidec
+Intre Lacuri,145000,,False,3,64.0, 4/4, Dec
+Gheorgheni,123000,,False,2,44.0, Parter/10, Semidec
+Gheorgheni,159000,,False,2,60.0, 2/4, Semidec
+Iris,159000,,False,3,63.0, 8/9, Semidec
+Iris,180000,,False,3,90.0, 7/7, Semidec
+Gheorgheni,106000,,False,2,46.0, Parter/4, Semidec
+Marasti,178000,,False,3,72.0, 6/7, Dec
+Buna Ziua,185000,,False,3,74.0, 1/3, Semidec
+Marasti,140000,,False,2,62.0, 5/5, Semidec
+Manastur,110000,,False,2,47.0, Parter/10, Dec
+Zorilor,138000,,False,3,64.0, 4/4, Dec
+Gheorgheni,180000,,False,3,62.0, 3/4, Dec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Zorilor,178000,,False,3,64.0, 2/4, Dec
+Grigorescu,143000,,False,2,50.0, 10/10, Dec
+Iris,170000,,False,3,54.0, 3/10, Dec
+Manastur,114000,,False,2,54.0, Parter/4, Semidec
+Iris,162000,,False,3,62.0, Parter/4, Dec
+Buna Ziua,127000,,False,2,41.0, Parter/4, Semidec
+Manastur,106000,,False,2,52.0, 5/9, Semidec
+Central,235000,,False,3,87.0, 1/4, Semidec
+Gheorgheni,125000,,False,2,43.0, 8/10, Semidec
+Manastur,208000,,False,4,92.0, 1/8, Dec
+Marasti,167000,,False,2,55.0, 6/7, Semidec
+Intre Lacuri,189000,,False,3,66.0, 9/9, Dec
+Marasti,142000,Comision 0%,False,3,65.25, 4/4, Dec
+Marasti,167000,,False,2,56.0, 6/8, Dec
+Manastur,63000,,False,1,24.0, Parter/4, Semidec
+Borhanci,225000,,False,3,80.0, 2/3, Semidec
+Gheorgheni,289000,,False,3,115.0, 1/8, Dec
+Gheorgheni,129000,,False,2,51.0, 10/10, Dec
+Borhanci,218000,,False,3,80.0, 2/3, Semidec
+Gheorgheni,136000,,False,2,53.0, 6/10, Dec
+Intre Lacuri,185000,,False,3,70.0, Parter/6, Dec
+Gara,178319,,False,3,77.53, 5/6, Semidec
+Manastur,174000,,False,4,78.0, 2/4, Dec
+Buna Ziua,145000,,False,2,51.0, 1/6, Semidec
+Dambul Rotund,109950,,False,2,55.0, 2/3, Semidec
+Iris,129000,,False,2,48.0, Parter/2, Dec
+Zorilor,120000,,False,2,46.5, 7/12, Semidec
+Marasti,99000,,False,2,40.0, 1/4, Semidec
+Manastur,175000,,False,4,82.0, 2/8, Dec
+Europa,147500,,False,2,56.0, 1/3, Semidec
+Manastur,120000,,False,3,50.0, 1/4, Dec
+Manastur,117000,,False,3,55.0, 1/4, Dec
+Marasti,125000,,False,3,64.0, 4/4, Dec
+Europa,200000,,False,3,82.0, 1/3, Semidec
+Manastur,128000,,False,3,60.0, 1/2, Dec
+Iris,69000,,False,1,37.0, 1/4, Dec
+Manastur,93000,,False,1,45.0, 2/3, Dec
+Manastur,64980,,False,1,24.0, Parter/4, Dec
+Manastur,63000,Comision 0%,False,1,24.0, Parter/4, Dec
+Central,108000,,False,1,28.0, 2/2, Semidec
+Ultracentral,230000,,False,6,160.0, Parter, Semidec
+Marasti,135000,,False,2,46.0, 9/10, Dec
+Marasti,145000,,False,1,40.0, 1/4, Semidec
+Manastur,89900,,False,1,40.0, Parter/4, Dec
+Marasti,140000,,False,1,45.0, 4/6, Semidec
+Marasti,150974,,False,2,52.0, Parter/4, Semidec
+Manastur,81000,Comision 0%,False,1,33.0, Parter/10, Dec
+Marasti,143000,,False,2,57.0, 8/8, Dec
+Central,90000,,False,2,41.0, Demisol/1, Semidec
+Marasti,129000,,False,2,40.0, 5/7, Semidec
+Marasti,156060,,False,2,52.0, 1/4, Semidec
+Gheorgheni,210000,,False,4,70.0, 3/4, Dec
+Marasti,155000,,False,2,44.0, 4/4, Semidec
+Marasti,155000,,False,2,54.0, 2/2, Dec
+Marasti,155000,,False,2,44.0, 4/4, Dec
+Central,280000,,False,3,90.0, 1/1, Semidec
+Manastur,89000,,False,1,38.0, Parter/2, Dec
+Marasti,255000,,False,3,77.0, 2/4, Semidec
+Manastur,107000,,False,2,40.0, 10/10, Dec
+Central,309000,,False,3,74.0, 1/3, Semidec
+Marasti,133000,,False,2,46.0, 9/10, Dec
+Manastur,102000,,False,2,38.6, Parter/10, Dec
+Buna Ziua,115000,,False,2,46.0, Parter/2, Semidec
+Gheorgheni,185000,,False,3,62.0, 1/4, Dec
+Central,155000,,False,2,48.0, Parter/3, Semidec
+Buna Ziua,125000,,False,2,41.0, Parter/4, Semidec
+Central,189500,,False,2,55.0, 7/15, Semidec
+Grigorescu,264000,,False,2,61.0, 5/11, Semidec
+Grigorescu,105000,Comision 0%,True,2,48.0, 1/10, Semidec
+Marasti,132000,,False,2,55.0, Parter/4, Semidec
+Marasti,270000,,False,4,94.0, 6/7, Dec
+Zorilor,99900,,False,3,65.0, Demisol/3, Dec
+Zorilor,120000,,False,1,36.0, 4/4, Semidec
+Marasti,129216,,False,1,40.0, 3/4, Semidec
+Semicentral,198000,,False,2,60.0, 11/22, Semidec
+Grigorescu,145000,,False,2,52.0, 7/9, Dec
+Manastur,76000,,False,1,28.0, 6/10, Semidec
+Central,240000,,False,2,57.0, 1/4, Dec
+Buna Ziua,200000,,False,3,64.0, 1/3, Semidec
+Iris,100800,Comision 0%,False,2,65.0, Parter/2, Dec
+Zorilor,215600,,False,3,77.0, 8/14, Semidec
+Central,208500,,False,3,69.0, 1/4, Dec
+Central,195000,,True,2,65.0, 2/5, Semidec
+Marasti,151000,,False,2,54.0, Parter/4, Semidec
+Buna Ziua,200000,,False,3,74.0, 1/3, Semidec
+Borhanci,150000,,False,2,56.0, 1/3, Dec
+Buna Ziua,140000,,False,2,42.18, 3/3, Semidec
+Gheorgheni,152900,,False,2,47.0, 9, Dec
+Marasti,51900,,False,1,21.0, Parter/4, Semidec
+Andrei Muresanu,170000,,False,2,63.23, 4/4, Semidec
+Buna Ziua,179900,,False,2,50.0, 1/10, Semidec
+Marasti,137500,,False,2,52.11, 4/6, Semidec
+Grigorescu,183000,,False,2,65.0, 3/4, Dec
+Gara,118860,,False,2,59.43, Parter/4, Semidec
+Zorilor,175000,,False,4,76.0, 3/4, Dec
+Central,145000,,False,3,69.0, 3/7, Dec
+Zorilor,155000,,False,2,47.0, Parter/3, Semidec
+Iris,163000,,False,3,63.0, 3/8, Semidec
+Zorilor,146149,,True,3,57.0, 1/4, Semidec
+Intre Lacuri,210000,,False,2,57.0, 3/10, Semidec
+Calea Turzii,139900,,False,2,53.0, 8/8, Dec
+Zorilor,205000,,False,3,63.0, Parter/4, Dec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Buna Ziua,179900,,False,2,50.0, 1/10, Semidec
+Semicentral,259900,,False,3,80.0, 15/23, Semidec
+Zorilor,130000,Comision 0%,False,2,56.0, 4/4, Dec
+Central,175000,,False,2,63.23, 4/4, Semidec
+Grigorescu,216896,,False,3,67.78, 3/4, Semidec
+Gheorgheni,125000,,False,2,50.82, Parter/4, Semidec
+Zorilor,189000,Comision 0%,False,2,54.0, 7/14, Semidec
+Zorilor,160000,,False,3,62.0, 7/8, Dec
+Intre Lacuri,175000,Comision 0%,False,2,49.0, 1/4, Dec
+Gheorgheni,142999,,False,3,63.0, 9/10, Semidec
+Marasti,173759,,False,2,56.0, 2/4, Dec
+Central,119500,,True,1,37.0, 2/6, Dec
+Zorilor,180000,,False,4,78.0, 3/4, Dec
+Central,480000,,False,4,155.0, 3/3, Semidec
+Borhanci,128000,,False,1,40.0, 1/2, Dec
+Iris,227000,,False,3,65.0, Parter/4, Semidec
+Gheorgheni,130057,,True,2,52.85, 1/8, Dec
+Grigorescu,144900,,False,3,50.0, 9/10, Semidec
+Europa,195000,,False,4,105.0, Parter/1, Semidec
+Buna Ziua,235000,,False,3,82.0, 1/4, Semidec
+Iris,87323,,False,2,47.98, Parter/3, Semidec
+Manastur,89900,,False,2,39.0, 4/4, Semidec
+Gheorgheni,153000,,False,2,47.0, 9/11, Dec
+Andrei Muresanu,127900,,False,2,38.0, Parter/3, Semidec
+Plopilor,329000,,True,4,135.0, 1/10, Dec
+Gheorgheni,185000,,False,2,64.0, 1/10, Dec
+Marasti,174643,,False,2,57.0, 3/4, Dec
+Manastur,209000,Comision 0%,False,3,99.0, 1/3, Dec
+Dambul Rotund,45000,,False,1,16.0, 4/4, Semidec
+Buna Ziua,235000,,False,3,82.0, 1/4, Semidec
+Central,71500,,False,1,20.0, 4/4, Semidec
+Iris,105500,,False,2,58.0, 1/3, Semidec
+Marasti,137000,,False,2,40.0, 5/5, Semidec
+Marasti,177024,,False,2,55.0, 4/4, Semidec
+Manastur,125000,,False,3,66.0, 4/4, Dec
+Marasti,180000,,False,2,65.0, 5/8, Dec
+Horea,200000,,False,3,60.0, Parter/1, Dec
+Central,129000,,False,1,35.0, Parter/1, Semidec
+Sopor,165000,,False,2,55.0, Parter/10, Semidec
+Zorilor,153200,,False,3,64.0, 4/4, Dec
+Grigorescu,132000,,False,2,50.0, 4/10, Dec
+Europa,213000,,False,3,70.0, 1/2, Semidec
+Manastur,158000,,False,4,76.0, 8/8, Dec
+Gheorgheni,125000,,False,2,50.0, Parter/4, Semidec
+Dambul Rotund,122000,,False,2,44.0, Parter/6, Semidec
+Borhanci,120000,,False,2,65.0, Parter/3, Semidec
+Gheorgheni,200000,,False,3,65.0, 7/7, Dec
+Manastur,142990,,False,3,67.0, Parter/4, Dec
+Semicentral,133000,,False,2,40.0, 10/22, Semidec
+Semicentral,149800,Comision 0%,True,2,58.07, 5/6, Semidec
+Marasti,179000,,False,2,58.0, 2/3, Semidec
+Semicentral,137500,,False,2,60.0, Parter/6, Semidec
+Europa,204000,,False,2,68.0, 3/3, Semidec
+Buna Ziua,180000,,False,3,74.0, 1/3, Semidec
+Grigorescu,155000,,False,2,52.0, 7/10, Dec
+Borhanci,173000,,False,3,61.0, 1/4, Semidec
+Semicentral,190000,,False,3,60.0, Parter/1, Dec
+Semicentral,199000,,False,3,58.0, 5/5, Semidec
+Iris,169000,,False,3,63.8, 4/5, Semidec
+Grigorescu,125000,,False,3,65.0, Parter/10, Dec
+Grigorescu,137500,,False,3,65.0, Parter/4, Dec
+Dambul Rotund,117000,,False,2,45.0, 5/6, Semidec
+Manastur,63000,,False,1,24.0, Parter/4, Nedec
+Sopor,185000,,False,3,67.0, 7/7, Semidec
+Borhanci,168228,,False,3,71.57, 3/3, Semidec
+Gheorgheni,168000,,False,2,52.0, 11/11, Semidec
+Intre Lacuri,465000,,False,4,119.0, 2/2, Semidec
+Europa,203000,,False,2,68.0, 3/3, Semidec
+Manastur,80000,,False,2,36.0, 4/4, Dec
+Borhanci,160000,Comision 0%,False,2,53.0, Parter/2, Semidec
+Manastur,218000,,False,3,75.2, 6/8, Semidec
+Iris,128700,,False,3,70.72, 1/3, Semidec
+Gara,285800,,False,4,84.09, 3/6, Semidec
+Central,285000,Comision 0%,False,3,80.0, 2/4, Dec
+Plopilor,173000,,False,2,58.0, 2/5, Dec
+Marasti,160000,,False,3,64.0, 4/4, Dec
+Manastur,94900,,False,2,42.0, 4/10, Dec
+Buna Ziua,140000,,False,2,43.0, 2/3, Semidec
+Buna Ziua,140000,,False,2,43.0, 2/3, Semidec
+Gara,88100,,False,2,44.05, 4/8, Semidec
+Dambul Rotund,149900,Comision 0%,False,2,52.0, 2/5, Dec
+Horea,310000,,False,3,90.0, 1/3, Semidec
+Sopor,173000,,False,2,60.0, 3/10, Semidec
+Iris,164000,,False,3,63.0, 3/7, Semidec
+Iris,82000,,True,2,56.0, Parter/2, Semidec
+Borhanci,173000,,False,3,60.59, 1/3, Semidec
+Central,324999,,False,2,83.0, 2/4, Semidec
+Buna Ziua,250000,,False,3,68.0, 2/3, Semidec
+Gheorgheni,160000,,False,2,60.0, 8/8, Dec
+Zorilor,218000,,False,3,65.0, 2/4, Dec
+Andrei Muresanu,325000,,False,3,82.0, 1/3, Dec
+Manastur,259000,,False,4,80.0, 1/4, Dec
+Dambul Rotund,105450,,False,2,57.0, 2/5, Semidec
+Plopilor,149900,,False,3,53.0, 4/4, Dec
+Marasti,123000,,False,3,63.0, 11/11, Dec
+Central,149000,,False,2,48.0, Parter/3, Semidec
+Central,260000,,False,4,79.0, 2/2, Dec
+Marasti,58500,,False,1,22.0, 4/4, Semidec
+Grigorescu,238000,,False,3,68.0, 1/3, Dec
+Zorilor,185000,,False,2,55.0, 2/5, Semidec
+Manastur,102500,,False,3,72.0, Demisol/3, Dec
+Ultracentral,270000,,False,2,80.0, 4/5, Semidec
+Borhanci,105000,,False,1,41.0, 3/5, Dec
+Manastur,90000,,False,2,38.0, 1/4, Semidec
+Manastur,170000,,False,4,73.0, 3/4, Dec
+Gheorgheni,129500,,False,2,51.0, 10/10, Dec
+Gheorgheni,179000,,False,2,55.0, 5/6, Semidec
+Iris,108000,,False,1,39.0, 3/5, Dec
+Bulgaria,126500,,False,2,49.0, 8/9, Semidec
+Manastur,113000,,False,3,66.3, Parter/8, Dec
+Central,260000,,False,3,78.96, 2/2, Semidec
+Gheorgheni,153000,,False,2,47.0, 9/11, Dec
+Manastur,93000,,False,2,37.0, 4/4, Dec
+Zorilor,140000,,False,2,43.0, 3/11, Dec
+Iris,165000,,True,3,83.0, 2/3, Dec
+Manastur,99990,,False,2,35.0, Parter/8, Semidec
+Central,300000,,False,3,72.0, 8/8, Semidec
+Gheorgheni,153000,,False,2,45.0, 3/4, Semidec
+Central,198000,,False,2,59.0, 3, Semidec
+Borhanci,150000,,False,3,54.0, 2/2, Dec
+Europa,165000,,False,2,56.0, Parter/7, Semidec
+Borhanci,227000,,True,3,98.0, 3/3, Semidec
+Borhanci,145000,,False,2,56.0, Parter/4, Semidec
+Iris,136000,,False,2,58.0, 2/5, Dec
+Central,191000,,False,3,63.0, Parter/3, Semidec
+Dambul Rotund,144133,,False,3,77.91, 1/5, Semidec
+Central,175000,,False,2,45.0, 1/5, Semidec
+Marasti,230000,Comision 0%,False,2,67.5, 7/8, Semidec
+Grigorescu,125000,,False,2,45.0, Parter/4, Semidec
+Gheorgheni,145000,,False,2,55.0, 2/6, Semidec
+Iris,180000,,False,3,54.0, 3/10, Dec
+Gheorgheni,155000,,False,2,42.41, 10/11, Semidec
+Buna Ziua,165000,,False,2,65.0, 4/6, Semidec
+Manastur,135000,,False,3,65.0, 4/4, Dec
+Zorilor,155000,,False,2,47.0, Parter/3, Semidec
+Zorilor,219000,Comision 0%,False,3,65.0, 2/4, Dec
+Gheorgheni,137500,,False,2,46.0, 6/10, Semidec
+Europa,147990,,False,2,58.0, 3/5, Semidec
+Manastur,158000,,False,4,76.0, 8/8, Dec
+Grigorescu,219999,,False,3,64.0, 10/10, Dec
+Central,133000,,True,2,52.0, 2/6, Dec
+Gheorgheni,289000,,False,2,57.0, 4/6, Semidec
+Central,155000,,False,2,49.0, Parter/1, Semidec
+Marasti,195000,,False,3,90.0, 8/8, Dec
+Gheorgheni,289000,,False,2,57.0, 4/6, Semidec
+Zorilor,133000,Comision 0%,False,2,47.25, 7/7, Dec
+Buna Ziua,275000,,False,3,78.16, 1/8, Dec
+Borhanci,162500,,False,2,54.0, 1/2, Dec
+Zorilor,165000,,False,3,66.0, Parter/4, Dec
+Gheorgheni,143000,,False,3,59.0, 3/4, Semidec
+Dambul Rotund,88000,,False,2,46.0, 4/6, Semidec
+Marasti,167000,,False,2,56.0, 6/8, Semidec
+Marasti,52500,,False,1,22.0, Parter/4, Semidec
+Manastur,109000,,False,4,54.0, 4/4, Nedec
+Gruia,105000,,False,2,50.0, 3/3, Dec
+Gheorgheni,140000,,True,2,54.61, 6/7, Semidec
+Zorilor,139000,,False,3,66.0, 4/4, Dec
+Central,146000,,False,2,51.0, 3/4, Semidec
+Marasti,110000,,False,1,40.0, 4/4, Dec
+Zorilor,117470,,False,2,49.0, 2/4, Dec
+Manastur,176000,,False,4,78.0, 1/4, Dec
+Marasti,220000,,False,3,68.0, 1/10, Dec
+Marasti,115000,,False,2,42.0, Parter/9, Semidec
+Gheorgheni,295000,,False,4,91.0, 3/8, Dec
+Marasti,173900,,False,3,63.0, 3/4, Dec
+Zorilor,133500,Comision 0%,False,2,47.25, 7/7, Dec
+Manastur,175000,,False,4,78.0, 2/4, Semidec
+Marasti,289000,,False,2,57.0, 4/6, Semidec
+Manastur,95000,,False,2,41.0, Parter/4, Dec
+Gheorgheni,235000,,False,3,74.0, 2/7, Dec
+Central,235000,,False,3,87.0, 1/5, Dec
+Marasti,127000,Comision 0%,False,2,52.0, Parter/4, Dec
+Ultracentral,309000,,False,2,83.7, 2/4, Semidec
+Central,179990,,False,2,73.0, Parter, Semidec
+Marasti,126500,,False,2,49.0, 8/9, Semidec
+Manastur,139000,,False,3,69.0, 1/5, Semidec
+Intre Lacuri,199000,,False,3,66.0, 6/6, Semidec
+Semicentral,99000,,False,2,45.0, 2/4, Semidec
+Iris,95000,,False,2,45.0, Parter/3, Dec
+Manastur,110000,,False,2,58.0, Parter/3, Semidec
+Gheorgheni,137500,,False,2,46.0, 6/10, Semidec
+Intre Lacuri,185000,,False,4,79.24, 2/4, Dec
+Central,150000,,False,2,56.0, Parter/1, Dec
+Central,200000,,False,2,50.0, 5/6, Semidec
+Zorilor,248000,,False,3,78.5, 3/4, Dec
+Borhanci,129600,,False,2,57.0, 1/2, Semidec
+Central,119000,,False,2,53.0, 4/4, Semidec
+Plopilor,245000,,False,3,73.0, 1/4, Dec
+Zorilor,122500,,False,2,41.0, 1/4, Semidec
+Gheorgheni,180000,,False,3,62.0, 3/4, Dec
+Manastur,319000,,True,5,177.0, Parter/2, Dec
+Manastur,203000,,False,4,100.0, 1/8, Dec
+Sopor,173000,,False,2,60.0, 3/10, Semidec
+Buna Ziua,219000,,False,3,110.0, 1/3, Semidec
+Borhanci,150000,,False,2,56.0, Parter/2, Semidec
+Andrei Muresanu,170000,,False,2,64.0, 4/4, Semidec
+Andrei Muresanu,192000,,True,2,65.0, 3/5, Semidec
+Europa,225000,,False,3,72.0, 1/3, Semidec
+Iris,770000,,True,5,308.0, 6/6, Dec
+Borhanci,225000,,False,3,80.0, 2/3, Semidec
+Buna Ziua,158000,,False,3,55.0, 3/4, Semidec
+Gheorgheni,137500,,False,2,46.0, 6/10, Semidec
+Gheorgheni,295000,,False,4,91.0, 3/8, Dec
+Zorilor,145000,,False,2,56.0, 1/4, Semidec
+Grigorescu,105000,,False,2,50.12, 10/10, Dec
+Marasti,178000,Comision 0%,False,4,90.0, Parter/4, Dec
+Iris,129000,Comision 0%,False,2,43.0, 4, Semidec
+Marasti,97000,,False,1,30.0, 3/4, Dec
+Manastur,180000,,False,4,85.0, 2/4, Semidec
+Borhanci,225000,Comision 0%,False,3,80.0, 2/3, Semidec
+Europa,281000,,True,3,97.71, 1/3, Dec
+Marasti,222000,Comision 0%,False,3,63.0, 2/4, Dec
+Manastur,135000,,False,2,51.0, 10/25, Semidec
+Gheorgheni,157000,,False,3,70.0, Ultimele 2 e/4, Dec
+Buna Ziua,246000,,False,3,77.0, 1/10, Dec
+Manastur,116999,,False,2,42.0, 1/10, Dec
+Manastur,133500,,False,3,66.09, 4/4, Semidec
+Dambul Rotund,120000,,False,3,72.0, 1/1, Semidec
+Iris,94657,Comision 0%,False,3,60.1, 3/4, Semidec
+Gara,127600,,False,3,63.8, 4/8, Semidec
+Dambul Rotund,75000,,False,1,34.0, 3/4, Dec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Zorilor,138000,,False,2,44.0, 3/15, Semidec
+Gheorgheni,159000,,False,3,63.0, 2/4, Semidec
+Marasti,189000,Comision 0%,False,3,66.0, 9/9, Semidec
+Central,155000,,False,2,60.0, Parter, Semidec
+Central,400000,,False,3,95.0, 3/6, Semidec
+Andrei Muresanu,139900,,False,2,43.0, 2/2, Semidec
+Central,175000,,False,2,52.0, Parter/3, Semidec
+Semicentral,125000,,False,2,114.0, Parter/1, Dec
+Dambul Rotund,125000,,False,2,54.0, 3/5, Dec
+Intre Lacuri,195000,Comision 0%,False,3,65.0, 1/4, Dec
+Manastur,135000,,False,3,64.0, 5/10, Dec
+Grigorescu,139900,,False,4,84.0, 1/2, Semidec
+Marasti,60990,,False,1,24.0, 4/4, Semidec
+Iris,124900,,False,2,58.0, 3/4, Semidec
+Buna Ziua,141000,,False,2,56.0, Parter/10, Semidec
+Grigorescu,498000,Comision 0%,False,5,167.0, Demisol/1, Dec
+Gheorgheni,169000,,False,4,68.0, 3/4, Dec
+Manastur,150000,,False,4,70.0, 2/4, Semidec
+Campului,137000,,False,2,51.0, 1/3, Semidec
+Central,360000,,False,4,108.0, 2/3, Dec
+Zorilor,165000,,False,2,61.0, 1/3, Semidec
+Marasti,117000,,False,2,41.0, Parter/7, Semidec
+Marasti,170000,,False,4,85.0, 3/4, Dec
+Marasti,160000,,False,2,46.0, 2/4, Semidec
+Zorilor,163000,,False,3,53.0, 3/4, Dec
+Manastur,100000,,False,2,58.0, 1/4, Semidec
+Central,180000,,False,3,65.0, 1/1, Dec
+Gheorgheni,147000,Comision 0%,False,2,51.0, 8/10, Dec
+Buna Ziua,590000,,False,4,200.0, 4/4, Semidec
+Manastur,114000,,False,2,51.0, 2/4, Semidec
+Iris,57000,Comision 0%,False,1,28.0, Parter/4, Semidec
+Semicentral,109000,,True,2,59.43, Parter/4, Semidec
+Ultracentral,104000,,False,3,65.0, Parter, Dec
+Grigorescu,112000,,False,2,50.0, 16, Dec
+Manastur,134500,,False,3,62.0, 3/10, Semidec
+Marasti,134000,,False,2,57.0, 2/5, Dec
+Zorilor,139900,,False,3,66.0, 4/4, Dec
+Iris,126500,Comision 0%,False,2,49.0, 8/9, Semidec
+Manastur,169000,,False,4,82.0, 1/4, Dec
+Gheorgheni,43000,,False,1,30.0, Parter/10, Semidec
+Intre Lacuri,119999,Comision 0%,False,2,40.0, 1/7, Semidec
+Intre Lacuri,108000,Comision 0%,True,2,55.0, 2/6, Dec
+Central,125000,,False,2,57.0, 4/6, Semidec
+Iris,134200,,False,2,61.51, 3/5, Semidec
+Semicentral,144400,Comision 0%,True,2,66.1, 1/6, Semidec
+Semicentral,151100,Comision 0%,True,2,52.86, 6/6, Semidec
+Grigorescu,133000,,False,2,50.0, 4/10, Dec
+Horea,120000,Comision 0%,False,1,45.0, 3/4, Dec
+Gheorgheni,73000,Comision 0%,False,1,22.0, 2/4, Dec
+Gheorgheni,165000,,False,2,52.0, 2/4, Semidec
+Gheorgheni,145000,,False,2,46.0, 1/7, Semidec
+Intre Lacuri,149000,,False,3,110.0, Mansarda/3, Dec
+Ultracentral,150000,Comision 0%,False,2,44.0, Parter/1, Semidec
+Gheorgheni,82000,,False,1,28.0, 10/10, Semidec
+Marasti,115000,,False,1,38.0, 6/7, Dec
+Campului,99000,,False,2,50.0, Demisol/2, Semidec
+Manastur,107000,,False,2,39.0, Parter/10, Dec
+Manastur,78657,,False,1,42.0, Parter/2, Dec
+Europa,140000,,False,2,55.0, Parter/2, Semidec
+Manastur,86000,,False,1,39.0, 5/5, Dec
+Manastur,86000,,False,1,40.0, Mansarda/4, Semidec
+Manastur,85900,Comision 0%,False,1,39.0, Mansarda/5, Semidec
+Manastur,75900,,False,1,30.0, 4/4, Dec
+Manastur,95000,,False,2,50.0, Demisol/2, Dec
+Zorilor,101500,,False,2,49.0, 2/4, Semidec
+Central,110000,,False,1,28.0, Demisol/3, Semidec
+Ultracentral,110000,Comision 0%,False,2,28.0, Demisol/4, Semidec
+Grigorescu,108000,,False,2,48.0, 4/4, Dec
+Manastur,100000,,False,2,39.0, Parter/10, Dec
+Central,230000,,False,2,46.0, 1/4, Dec
+Manastur,80000,,False,1,31.0, 5/10, Semidec
+Gheorgheni,89500,,False,1,28.0, Parter/10, Dec
+Marasti,138000,,False,3,65.0, 4/4, Dec
+Zorilor,130000,Comision 0%,False,1,43.53, 3/18, Semidec
+Marasti,140000,,False,2,45.0, 9/10, Dec
+Manastur,69000,,False,1,30.0, 8/10, Dec
+Central,90900,,False,1,32.0, Demisol/3, Dec
+Marasti,127000,,False,2,52.0, Parter/4, Semidec
+Marasti,138000,,False,3,65.0, 4/4, Dec
+Marasti,129000,,False,2,40.0, 5/7, Semidec
+Buna Ziua,220000,,False,3,73.0, 1/2, Semidec
+Manastur,99900,,False,2,52.0, 11/11, Semidec
+Central,235000,,False,3,78.0, 2/7, Dec
+Marasti,140000,,False,2,51.0, 2/8, Dec
+Marasti,150000,,False,2,62.0, 6/6, Semidec
+Marasti,150000,,False,2,56.0, Parter/4, Dec
+Plopilor,78000,,False,1,25.0, 4, Dec
+Manastur,125000,,False,2,51.0, 7/10, Dec
+Manastur,99990,,False,2,35.0, Parter/8, Semidec
+Manastur,60000,,False,1,23.0, 2/4, Semidec
+Gheorgheni,97500,,False,1,39.89, 3/7, Semidec
+Manastur,90000,,False,2,37.0, 1, Dec
+Marasti,140000,,False,2,51.0, 2/8, Dec
+Gheorgheni,79000,,False,2,28.0, 4/4, Semidec
+Manastur,185000,,False,3,80.0, Parter/4, Dec
+Marasti,129000,,False,2,45.0, 1/8, Semidec
+Manastur,79500,,False,3,49.0, 4/4, Semidec
+Marasti,129000,,False,2,40.0, 5/7, Semidec
+Manastur,170000,,False,2,52.0, 2/5, Semidec
+Marasti,49000,,False,1,18.0, Parter/4, Nedec
+Marasti,149000,,False,2,54.0, Parter/4, Dec
+Central,480000,,False,3,100.0, 3/3, Semidec
+Zorilor,248000,,False,4,78.5, 3/4, Dec
+Central,480000,,False,3,100.0, 3/3, Dec
+Buna Ziua,117800,,False,2,46.0, Parter/2, Semidec
+Manastur,169000,,False,4,78.0, Parter/10, Semidec
+Manastur,168000,,False,3,73.0, 2/8, Dec
+Buna Ziua,115000,,False,2,47.0, Parter/2, Semidec
+Manastur,104780,Comision 0%,True,1,45.9, 3/4, Dec
+Zorilor,80300,,False,1,38.0, 3/4, Dec
+Marasti,130000,,False,1,44.0, 3/8, Semidec
+Central,455000,,False,3,100.0, 3/3, Semidec
+Gheorgheni,105500,,False,1,41.0, 4/8, Dec
+Zorilor,184000,,False,4,87.0, 4/4, Dec
+Semicentral,260000,,False,3,77.48, 15/22, Semidec
+Zorilor,179990,,False,2,50.0, 3/4, Dec
+Andrei Muresanu,184600,,False,3,71.0, 1/4, Dec
+Central,400000,,False,5,160.0, 1/1, Dec
+Buna Ziua,75000,,False,2,38.0, Parter/3, Semidec
+Gheorgheni,71000,,False,1,22.0, 2/4, Semidec
+Central,360000,,False,3,98.0, 6/6, Semidec
+Horea,330000,,False,3,91.0, Demisol/2, Semidec
+Gheorgheni,89000,,False,1,28.0, 3/10, Semidec
+P-ta Mihai Viteazul,398900,,False,4,128.0, 1/1, Dec
+Bulgaria,140000,,False,2,62.0, 1/4, Semidec
+Central,260000,,False,3,95.0, Parter, Semidec
+Marasti,155000,,False,2,46.0, 4/4, Dec
+Central,66000,,False,1,28.0, Demisol/4, Dec
+Manastur,170000,,False,3,80.0, Parter/10, Dec
+Gheorgheni,250000,,False,3,67.0, 2/4, Dec
+Zorilor,175000,,False,3,58.0, 13/14, Semidec
+Gheorgheni,190000,,False,3,60.0, Parter/4, Dec
+Gruia,122000,,False,2,42.0, 4/4, Dec
+Marasti,154000,,False,2,50.0, 6/6, Semidec
+Central,85000,,False,1,25.0, Parter, Semidec
+Buna Ziua,115000,,False,2,46.0, Parter/2, Semidec
+Marasti,127500,,False,2,45.0, 1/6, Semidec
+Gheorgheni,190000,,False,3,60.0, Parter/4, Dec
+Gheorgheni,190000,,False,3,61.0, 1/4, Dec
+Andrei Muresanu,210600,,True,3,81.0, 1/4, Dec
+Sopor,146376,,True,2,60.99, 2/7, Semidec
+Marasti,139750,,False,2,65.0, 1/6, Semidec
+Marasti,132225,,False,2,58.75, 1/10, Dec
+Marasti,140000,,False,3,62.0, 1/4, Semidec
+Gheorgheni,120000,,False,2,47.0, 4/4, Semidec
+Marasti,140000,,False,3,66.0, Parter/4, Dec
+Iris,56000,,False,1,22.0, 2/4, Semidec
+Central,94990,,False,1,28.0, Parter, Semidec
+Manastur,74000,,False,1,33.0, 4/4, Dec
+Manastur,90000,,False,1,25.0, 8/10, Dec
+Central,450000,,False,4,114.0, Demisol, Dec
+Gheorgheni,190000,,False,3,60.0, Parter/4, Dec
+Central,69000,,False,2,41.0, Demisol/3, Semidec
+Zorilor,160000,Comision 0%,True,3,65.0, 1/15, Dec
+Central,169000,,False,2,70.0, 1/1, Dec
+Grigorescu,174000,,False,4,80.0, 4/4, Semidec
+Manastur,205000,,False,2,50.0, 1/6, Semidec
+Marasti,143000,,False,2,49.0, 3/8, Dec
+Marasti,51500,,False,1,22.0, Parter/4, Semidec
+Iris,108000,,False,2,63.0, Mansarda/1, Dec
+Gheorgheni,128000,,False,2,53.0, 4/4, Semidec
+Marasti,132544,,False,1,41.0, 2/4, Semidec
+Zorilor,138000,,False,2,54.0, 4/4, Dec
+Iris,159000,,False,2,54.0, 2/6, Dec
+Zorilor,248000,,False,4,82.0, 3/4, Dec
+Gheorgheni,94000,,False,2,36.0, Parter/4, Semidec
+Central,154500,Comision 0%,True,2,52.0, 2/7, Dec
+Zorilor,125000,,False,1,31.69, 7/8, Semidec
+Marasti,175000,,False,3,65.0, Parter/4, Dec
+Gheorgheni,107900,,False,2,45.0, Parter/10, Semidec
+Gheorgheni,85000,,False,1,30.0, 6/10, Semidec
+Zorilor,189500,,False,2,54.0, 7/15, Semidec
+Gheorgheni,190000,,False,3,61.0, 1/4, Dec
+Gheorgheni,127000,,False,2,53.0, 4/4, Semidec
+Zorilor,189500,,False,2,55.0, 7/14, Semidec
+Zorilor,220000,,False,2,90.0, Mansarda/5, Semidec
+Sopor,104000,,False,2,37.0, 5/8, Semidec
+Marasti,225000,,False,3,64.0, 1/4, Semidec
+Zorilor,220000,,False,3,67.0, 2/4, Dec
+Buna Ziua,122000,,False,2,41.0, Parter/4, Semidec
+Marasti,270000,,False,3,75.0, 4/6, Semidec
+Buna Ziua,180000,,False,2,57.0, Parter/4, Dec
+Buna Ziua,199000,,False,4,96.0, Parter/2, Semidec
+Manastur,99990,,False,1,35.0, Parter/8, Dec
+Buna Ziua,165000,Comision 0%,False,2,65.0, 4/6, Semidec
+Grigorescu,240000,,False,3,69.0, 1/2, Semidec
+Manastur,249900,Comision 0%,False,3,81.2, 6/6, Dec
+Central,117000,,False,1,38.0, 3/3, Semidec
+Calea Turzii,166000,Comision 0%,True,2,62.36, 1/4, Semidec
+Europa,117000,,False,1,38.0, 3/3, Dec
+Grigorescu,125000,,False,3,47.0, 4/4, Semidec
+Zorilor,220000,,False,3,65.0, 2/4, Dec
+Manastur,127000,,False,3,57.0, 6/7, Semidec
+Buna Ziua,200000,,True,3,87.0, 1/6, Semidec
+Manastur,45000,,False,1,14.0, Parter/4, Semidec
+Manastur,99500,,False,1,35.0, Parter/8, Dec
+Central,189500,,False,3,56.0, Parter, Dec
+Manastur,130000,,False,2,52.0, 7/10, Dec
+Manastur,239500,,False,4,105.0, 9/10, Dec
+Zorilor,179000,,False,4,96.0, 1/4, Dec
+Marasti,120000,,False,1,32.0, 8/9, Dec
+Marasti,279000,Comision 0%,False,3,75.0, 4/6, Semidec
+Grigorescu,369000,,False,4,130.0, Parter/1, Semidec
+Marasti,215000,,False,3,60.0, 5/5, Semidec
+Central,230000,,False,2,70.0, 2/2, Dec
+Marasti,178000,,False,4,90.0, Parter/4, Dec
+Gheorgheni,183000,,False,3,62.0, 3/4, Dec
+Gheorgheni,125000,,False,2,48.0, 6/10, Semidec
+Marasti,162000,,False,3,65.0, 9/10, Dec
+Bulgaria,118000,,False,2,55.0, Parter/1, Dec
+Buna Ziua,90000,,False,2,42.0, Mansarda/4, Semidec
+Sopor,105000,,False,2,39.89, 2/6, Dec
+Marasti,130000,,False,2,40.0, 5/5, Dec
+Gheorgheni,149000,,False,2,43.0, 10/10, Semidec
+Grigorescu,169900,,False,4,80.0, 4/4, Semidec
+Andrei Muresanu,117000,,False,1,38.0, 3/3, Dec
+Semicentral,210000,,False,3,60.0, Parter/2, Dec
+Grigorescu,145000,,False,3,50.0, 9/10, Semidec
+Iris,89165,,False,2,52.45, 2/3, Semidec
+Zorilor,146267,,True,3,57.0, 3/4, Semidec
+Gruia,83500,,False,1,41.0, Parter, Semidec
+Buna Ziua,140000,,False,2,43.0, 1/1, Semidec
+Sopor,167150,,False,2,56.0, 2/7, Dec
+Buna Ziua,205000,,True,3,82.0, 5/6, Dec
+Manastur,124990,,False,3,57.0, 4/4, Dec
+Central,208000,,False,3,63.0, 1/4, Semidec
+Calea Turzii,100000,,False,1,38.0, 3/8, Dec
+Manastur,78000,,False,1,32.0, 9/10, Dec
+Manastur,86000,,False,3,43.0, 4/4, Semidec
+Gruia,199000,,False,2,70.0, Parter/1, Dec
+Manastur,125000,,False,2,44.0, 3/8, Dec
+Andrei Muresanu,137800,,False,2,53.0, 1/4, Dec
+Central,127500,,False,1,47.0, 5/12, Dec
+Iris,52000,,False,1,21.0, Parter/4, Semidec
+Marasti,188000,,False,2,54.0, 8/10, Dec
+Gruia,92000,,False,1,39.0, 3/3, Dec
+Iris,111999,,False,2,43.0, 5/7, Semidec
+Central,218000,,False,3,60.0, Parter/1, Dec
+Marasti,128000,,False,2,54.0, 12/12, Dec
+Manastur,106990,Comision 0%,False,2,38.0, Parter/10, Dec
+Gruia,92000,,False,1,38.0, 3/3, Dec
+Manastur,155000,,False,2,46.5, 6/25, Semidec
+Gheorgheni,120000,,False,2,55.0, Demisol/3, Dec
+Central,239500,,False,4,86.31, 6/6, Semidec
+Gruia,90500,,False,1,38.0, 3/3, Dec
+Central,215000,,False,2,74.0, 1/1, Semidec
+Marasti,230000,,False,2,60.0, 10/10, Dec
+Zorilor,175000,,False,2,58.0, 13/14, Dec
+Gheorgheni,149000,,False,2,50.0, 6/10, Semidec
+Zorilor,178900,,False,4,78.0, 3/4, Dec
+Intre Lacuri,120780,,True,2,54.28, Parter/6, Semidec
+Buna Ziua,140000,,False,2,43.0, 2/2, Semidec
+Borhanci,129242,,True,2,53.74, 3/3, Dec
+Central,199500,,False,3,63.0, 1/4, Semidec
+Central,480000,,False,4,155.0, 3/3, Semidec
+Manastur,165000,Comision 0%,False,4,74.0, 8/8, Dec
+Grigorescu,137000,,False,3,47.0, 4/4, Semidec
+Andrei Muresanu,170000,,False,2,63.0, 4/4, Semidec
+Central,269900,,False,4,90.0, 1/5, Dec
+Central,239000,,False,3,85.0, 1/1, Semidec
+Manastur,112000,,False,2,43.0, 1, Dec
+Grigorescu,180000,,False,2,65.0, 3/4, Dec
+Borhanci,129241,,False,2,53.89, 3/3, Semidec
+Marasti,230000,,False,2,53.0, 10/10, Dec
+Gheorgheni,125000,,False,2,44.7, Parter/10, Semidec
+Iris,98000,,False,2,45.0, 4/6, Semidec
+Marasti,126000,Comision 0%,True,2,63.0, 3/3, Semidec
+Plopilor,179000,,True,2,56.0, 5/10, Semidec
+Iris,128000,,True,2,57.0, 3/9, Dec
+Manastur,190000,,False,3,87.0, Parter/10, Dec
+Iris,125000,,False,2,54.0, Parter/4, Semidec
+Andrei Muresanu,146500,,False,2,52.0, 10/10, Dec
+Andrei Muresanu,180000,,False,2,64.0, 3/3, Semidec
+Grigorescu,140000,,False,2,48.0, 9/9, Semidec
+Central,208000,,False,3,63.0, 1/4, Semidec
+Europa,225000,,False,3,68.0, 3/7, Semidec
+Intre Lacuri,127000,,False,2,50.0, 4/4, Dec
+Manastur,130000,,False,2,51.0, 7/10, Semidec
+Gheorgheni,125000,,False,1,37.0, 1/6, Semidec
+Gheorgheni,149000,,False,2,63.0, Parter/3, Dec
+Manastur,175000,,False,4,78.0, 2/4, Dec
+Manastur,115000,,False,2,45.0, 1/10, Semidec
+Borhanci,235000,,False,2,54.0, 3/3, Dec
+Sopor,160000,,False,2,62.51, 3/9, Semidec
+Manastur,115000,,False,1,37.0, 1/8, Semidec
+Grigorescu,170000,,False,3,69.0, 4/4, Dec
+Central,335000,,False,3,53.0, Parter/3, Semidec
+Zorilor,175000,,False,2,67.0, 2/3, Semidec
+Central,267000,,False,4,89.7, 2/3, Dec
+Andrei Muresanu,170000,,False,2,63.0, 4/4, Semidec
+Marasti,106900,,False,2,49.0, 10/10, Dec
+Ultracentral,115000,Comision 0%,False,1,28.0, 2/2, Semidec
+Gheorgheni,127000,,False,2,52.0, Parter/4, Semidec
+Gheorgheni,153000,,False,2,47.0, 9/11, Dec
+Manastur,183000,,False,3,64.0, 4/10, Dec
+Borhanci,250000,,False,3,68.0, 2/2, Semidec
+Ultracentral,90000,,False,2,50.0, Parter/1, Nedec
+Manastur,185000,,False,3,60.0, 4/10, Dec
+Gheorgheni,129500,,False,2,55.0, Parter/4, Semidec
+Central,114000,,False,2,66.0, Demisol/2, Dec
+Zorilor,165000,,False,2,55.0, 4/12, Semidec
+Europa,220000,,False,3,72.0, 1/3, Semidec
+Zorilor,160000,,False,3,62.0, 7/8, Dec
+Buna Ziua,200000,,False,2,50.0, 9/10, Semidec
+Borhanci,154860,,False,2,58.0, 4/4, Semidec
+Sopor,109000,,False,1,40.0, 2, Semidec
+Europa,188000,,False,2,54.0, 7/15, Dec
+Central,394990,,False,3,94.0, 1/4, Semidec
+Manastur,185000,,False,3,65.0, 4/10, Dec
+Dambul Rotund,46000,,False,1,21.0, 4/4, Semidec
+Intre Lacuri,230000,,False,2,55.0, 10/10, Semidec
+Andrei Muresanu,170000,,False,2,64.0, 4/5, Dec
+Europa,225000,,False,3,72.0, 1/3, Semidec
+Zorilor,170000,Comision 0%,False,2,58.0, 13/14, Dec
+Central,265000,,False,3,100.0, 1/8, Semidec
+Manastur,112000,Comision 0%,False,2,43.0, 1/10, Dec
+Borhanci,123088,,False,2,53.74, 3/3, Semidec
+Zorilor,165000,,False,3,68.0, Parter/4, Dec
+Zorilor,175000,,False,4,80.0, 1/4, Dec
+Manastur,175000,,False,4,80.0, 2/4, Dec
+Marasti,158000,Comision 0%,False,2,74.0, Parter/5, Semidec
+Iris,69900,,False,1,22.0, 3/4, Dec
+Zorilor,169000,,False,2,56.0, Parter/12, Semidec
+Iris,130000,,True,2,57.87, 1/9, Semidec
+Manastur,115000,,False,2,43.0, 1/9, Dec
+Buna Ziua,140000,,False,2,43.0, 2/2, Semidec
+Zorilor,195000,,False,3,75.0, 2/4, Semidec
+Andrei Muresanu,122000,,False,2,41.0, Parter/4, Semidec
+Manastur,180000,,False,3,65.0, 4/10, Dec
+Marasti,157000,,False,2,58.0, 3/3, Dec
+Central,120000,,True,1,37.0, 4/4, Dec
+Central,120000,,False,1,20.0, 3/3, Semidec
+Central,82000,,False,1,38.0, Parter, Semidec
+Iris,120000,,False,2,52.0, 3, Dec
+Central,205000,,False,1,51.0, 1/6, Semidec
+Iris,50000,,False,1,20.0, 3/4, Semidec
+Borhanci,155000,,False,2,59.0, Parter/4, Semidec
+Iris,211250,,False,3,84.5, 5/6, Semidec
+Iris,117500,,False,2,52.0, 1/4, Dec
+Manastur,175000,,False,4,78.0, 2/4, Dec
+Manastur,185000,,False,3,65.0, 4/10, Dec
+Marasti,129499,,False,2,55.0, Parter/4, Nedec
+Europa,220000,,False,3,72.0, 1/3, Semidec
+Europa,175000,,False,2,60.0, Parter/5, Semidec
+Marasti,289000,,False,3,113.7, 1/8, Semidec
+Bulgaria,136000,,False,2,54.0, 5/6, Semidec
+Zorilor,145000,,False,2,50.0, 4/4, Dec
+Gheorgheni,225000,,False,3,67.0, 3/4, Semidec
+Marasti,117000,,False,1,41.0, Parter/7, Semidec
+Iris,170000,,False,2,64.0, 1/5, Dec
+Marasti,175000,,False,3,63.0, 2/4, Semidec
+Gheorgheni,299000,,False,3,114.0, 1/8, Dec
+Gheorgheni,124500,,False,3,109.0, Mansarda/3, Semidec
+Marasti,124000,,False,3,55.0, 3/3, Semidec
+Grigorescu,217000,,True,3,78.0, 2/4, Semidec
+Borhanci,155000,,False,2,59.0, Parter/4, Semidec
+Andrei Muresanu,153000,,False,2,47.0, 9/11, Dec
+Intre Lacuri,90000,,False,1,41.5, 4/4, Dec
+Grigorescu,132000,,False,2,50.0, 4/10, Dec
+Borhanci,249000,,False,3,70.0, 2/2, Semidec
+Gheorgheni,165000,,False,3,60.0, 2/4, Semidec
+Dambul Rotund,215000,,False,4,120.0, Parter/2, Semidec
+Marasti,165000,,False,2,54.0, Parter/4, Dec
+Zorilor,175000,,False,4,76.0, 3/4, Dec
+Ultracentral,120000,,False,1,20.0, 3/3, Semidec
+Manastur,128000,,False,2,49.0, 2/2, Semidec
+Manastur,80000,,False,2,35.0, 2/4, Semidec
+Buna Ziua,235000,,False,3,82.0, 1/4, Semidec
+Manastur,173000,,False,2,58.0, 2/6, Semidec
+Zorilor,145000,,False,2,50.0, 4/4, Dec
+Borhanci,192455,,False,3,79.59, 3/3, Semidec
+Central,277590,,False,3,83.0, 3/3, Semidec
+Dambul Rotund,53000,,False,1,21.0, 1/4, Semidec
+Gruia,95000,,False,1,40.2, 3/3, Dec
+Semicentral,120000,,False,2,59.0, Parter/5, Semidec
+Borhanci,175000,,False,2,45.0, 4/4, Semidec
+Grigorescu,150000,,False,3,65.0, 4/4, Dec
+Zorilor,139000,,False,3,66.0, 4/4, Dec
+Andrei Muresanu,190000,,False,2,64.0, 4/4, Semidec
+Grigorescu,170000,,False,4,80.0, 4/4, Dec
+Grigorescu,109186,,True,3,67.21, Parter/11, Semidec
+Sopor,180000,,False,2,52.0, 4/8, Semidec
+Semicentral,185000,,False,2,58.0, 5/6, Semidec
+Intre Lacuri,150000,,False,3,63.0, 4/4, Dec
+Gara,176000,,True,3,72.0, 5/6, Semidec
+Manastur,110000,,False,3,75.0, 1/3, Semidec
+Iris,227000,,False,3,65.0, Parter/5, Semidec
+Marasti,125000,,False,2,45.0, 3/4, Dec
+Iris,217000,,False,3,65.0, Parter/4, Dec
+Iris,97000,,False,2,45.0, 3/5, Dec
+Manastur,174000,,False,3,64.0, 3/4, Semidec
+Zorilor,175000,,False,4,76.0, 3/4, Dec
+Semicentral,185000,,False,2,58.0, 5/8, Semidec
+Semicentral,210000,,False,3,86.0, 5/5, Semidec
+Sopor,149500,,False,2,46.0, 6/7, Semidec
+Gheorgheni,159000,Comision 0%,False,3,63.0, 2/4, Semidec
+Marasti,130000,,False,2,54.5, 8/8, Dec
+Zorilor,158900,,False,3,108.0, Mansarda/4, Dec
+Grigorescu,168000,,False,3,76.0, Parter/3, Semidec
+Borhanci,139900,,False,3,54.0, 2/3, Dec
+Andrei Muresanu,158600,,True,2,61.0, 1/4, Semidec
+Buna Ziua,225000,,False,3,63.0, 1/3, Dec
+Gheorgheni,120000,,False,1,40.0, 2/2, Dec
+Zorilor,190000,,False,3,75.0, 1/4, Semidec
+Borhanci,173000,,False,3,61.0, 1/4, Semidec
+Marasti,143000,,False,2,49.0, 3/8, Dec
+Gheorgheni,82000,Comision 0%,False,1,28.0, 8/10, Nedec
+Central,200000,,False,2,65.0, Parter/1, Semidec
+Iris,224500,,False,4,99.91, 8/9, Dec
+Gheorgheni,159000,,False,3,60.0, 2/4, Semidec
+Borhanci,424900,,False,6,160.0, Ultimele 2 e/2, Dec
+Gheorgheni,130000,,False,2,46.0, Parter/4, Semidec
+Zorilor,140000,,False,3,64.0, 4/4, Dec
+Intre Lacuri,117750,,False,2,45.0, 3/3, Dec
+Zorilor,140000,,False,2,45.0, 1/4, Semidec
+Grigorescu,145000,,False,3,50.0, 9, Semidec
+Intre Lacuri,144900,,False,3,65.0, 4/4, Dec
+Zorilor,163000,,False,3,90.0, Mansarda/4, Semidec
+Intre Lacuri,116220,Comision 0%,True,2,51.0, Parter/6, Dec
+Iris,103000,,False,2,56.0, Parter/3, Dec
+Buna Ziua,169000,,False,2,52.0, Parter/4, Semidec
+Marasti,155000,,False,2,48.5, 1/10, Dec
+Buna Ziua,165000,,False,2,66.0, 4/6, Semidec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Iris,224500,,True,4,99.91, 6/9, Dec
+Europa,244275,,False,3,97.71, 1/3, Semidec
+Iris,183000,,False,2,65.0, 5/8, Semidec
+Dambul Rotund,67000,,False,2,32.0, 4/4, Dec
+Grigorescu,130000,,False,2,45.0, Parter/4, Semidec
+Manastur,158000,,False,4,76.0, 8/8, Dec
+Gheorgheni,170000,,False,2,55.0, 6/10, Semidec
+Zorilor,226000,,False,3,75.0, 5/8, Dec
+Zorilor,145000,,False,2,50.0, 4/4, Dec
+Zorilor,145000,,False,2,49.69, 4/4, Dec
+Iris,195000,,False,5,136.0, 2/2, Semidec
+Iris,165000,,False,3,63.0, 1/2, Semidec
+Marasti,110000,Comision 0%,False,1,40.95, 4, Dec
+Marasti,240000,,False,3,70.0, 3/3, Semidec
+Marasti,239900,,False,3,71.0, 3/3, Semidec
+Dambul Rotund,46000,,False,1,22.0, 1/4, Semidec
+Gheorgheni,77900,,False,2,30.0, 2/4, Semidec
+Manastur,158000,,False,4,76.0, 8, Dec
+Sopor,177500,,True,3,66.51, 8/8, Semidec
+Sopor,250000,,False,2,63.0, 2/8, Semidec
+Marasti,178000,,False,2,50.0, 1/4, Dec
+Buna Ziua,246000,,False,3,77.0, 1/10, Semidec
+Bulgaria,195000,,False,5,130.0, 2/3, Semidec
+Iris,151000,,False,2,54.0, 2/4, Dec
+Central,120000,,False,1,38.0, 2/2, Dec
+Iris,165000,,False,3,63.0, 1/3, Dec
+Marasti,180000,,False,3,65.0, 6/6, Dec
+Central,183000,,False,3,65.0, 8/9, Semidec
+Manastur,175000,,False,4,77.0, 2/4, Dec
+Gheorgheni,180000,,False,3,62.0, 3/4, Dec
+Manastur,93000,,False,2,36.0, 3/4, Semidec
+Zorilor,140000,,False,2,45.0, 1/4, Dec
+Central,200000,,False,2,70.0, 2/2, Dec
+Andrei Muresanu,160000,,False,2,64.0, 4/9, Dec
+Manastur,159500,Comision 0%,False,4,76.0, 8/8, Dec
+Marasti,160000,,False,3,64.5, 4/4, Dec
+Zorilor,220000,,False,3,80.0, 9/10, Dec
+Marasti,178000,,False,2,53.0, 1/4, Dec
+Marasti,178000,,False,2,50.0, 1/4, Dec
+Buna Ziua,246000,,False,3,77.0, 1/10, Semidec
+Andrei Muresanu,245000,,False,3,89.0, Parter/2, Semidec
+Gheorgheni,255000,,False,4,77.0, 2/4, Dec
+Grigorescu,229000,,True,3,80.47, 2/4, Semidec
+Manastur,110000,,False,2,54.0, Parter/10, Dec
+Gheorgheni,160000,,False,2,64.0, 4/10, Semidec
+Dambul Rotund,126000,,False,2,44.0, Parter/4, Semidec
+Manastur,120000,Comision 0%,False,2,47.0, Parter/8, Dec
+Marasti,179000,,False,2,59.0, 2/3, Semidec
+Zorilor,140000,,False,3,66.0, 4/4, Dec
+Grigorescu,238000,,False,3,68.0, 1/3, Semidec
+Central,143000,,False,2,46.0, 2/2, Semidec
+Manastur,235000,,False,4,106.0, Parter/10, Dec
+Dambul Rotund,155000,,False,3,59.0, 5/6, Semidec
+Gheorgheni,139000,,False,3,63.0, 9/10, Semidec
+Gheorgheni,154900,,False,3,63.0, Parter/4, Dec
+Borhanci,168000,Comision 0%,False,2,54.7, 1/2, Dec
+Iris,190000,,False,5,136.0, 2/4, Semidec
+Semicentral,120000,,False,1,38.0, 2/2, Semidec
+Grigorescu,115000,,False,2,48.0, 4/4, Dec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Grigorescu,239000,,True,3,85.7, 3/4, Semidec
+Zorilor,179000,,False,1,49.0, 3/4, Semidec
+Europa,179000,,False,2,59.0, Parter/7, Semidec
+Sopor,245000,,False,2,64.0, 2/7, Dec
+Central,330000,,False,4,98.0, Demisol/2, Semidec
+Borhanci,175000,,False,2,64.0, 1/2, Semidec
+Gheorgheni,156999,,False,2,65.0, 8/8, Dec
+Manastur,155900,Comision 0%,False,3,61.0, 2/9, Dec
+Zorilor,140000,,False,2,52.0, Parter/4, Dec
+Zorilor,84000,,False,1,35.0, Parter/4, Dec
+Gheorgheni,270000,,True,4,118.89, 7/7, Semidec
+Zorilor,175000,,False,2,63.0, 3/5, Dec
+P-ta Mihai Viteazul,139000,,False,2,35.0, Parter, Semidec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Iris,108000,,False,2,63.0, 2/2, Semidec
+Gheorgheni,104900,,False,2,44.0, Parter/10, Semidec
+Gheorgheni,35000,,False,1,11.0, 3/4, Semidec
+Manastur,94950,Comision 0%,False,1,37.3, Parter/10, Semidec
+Gheorgheni,102600,,False,1,39.89, 1, Semidec
+Gheorgheni,380000,,False,3,90.0, 6/6, Semidec
+Borhanci,160000,,False,3,54.0, 2/3, Semidec
+Central,137000,,False,2,46.0, 2/2, Semidec
+Gheorgheni,149000,,False,2,63.0, Parter/3, Dec
+Borhanci,175000,,False,2,64.0, 1/1, Semidec
+Central,409000,,False,3,178.0, 1/2, Semidec
+Europa,253000,,False,4,103.0, Parter/1, Dec
+Gheorgheni,185000,Comision 0%,False,3,62.0, 3/4, Dec
+Manastur,93000,,False,2,36.0, 3/4, Semidec
+Campului,210000,,False,3,99.0, 1/2, Dec
+Central,225000,,False,2,57.0, 1/1, Semidec
+Manastur,145000,,False,3,64.0, 1/4, Dec
+Manastur,95000,,False,2,40.0, 4/4, Dec
+Buna Ziua,159000,,False,2,52.0, 1/10, Semidec
+Buna Ziua,253000,,False,3,89.0, Parter/2, Dec
+Marasti,176871,,False,2,61.0, Parter/4, Semidec
+Zorilor,220000,,False,3,80.0, 9/10, Dec
+Gara,95800,Comision 0%,True,1,40.55, 2/6, Semidec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Marasti,170000,Comision 0%,False,3,65.0, 4/4, Dec
+Iris,130000,,False,2,57.0, 1/9, Dec
+Manastur,92900,,False,2,35.0, 3/4, Semidec
+Europa,168000,,False,2,56.0, Parter/2, Dec
+Manastur,100000,,False,1,40.0, Parter/10, Dec
+Gheorgheni,160000,,False,2,61.0, 8/8, Dec
+Marasti,180000,,False,3,64.0, 2/4, Semidec
+Zorilor,189000,,False,3,58.0, 8/14, Semidec
+Iris,45000,,False,1,22.0, 4/4, Semidec
+Dambul Rotund,122000,,False,2,44.0, Parter/6, Semidec
+Semicentral,115247,,True,2,44.37, 1/7, Semidec
+P-ta Mihai Viteazul,239000,,False,3,50.0, 2/7, Dec
+Zorilor,220000,,False,3,81.0, 9/10, Dec
+Zorilor,140000,,False,2,45.0, 1/4, Dec
+Dambul Rotund,213000,,False,4,108.0, Parter/3, Dec
+Manastur,94000,,False,2,37.0, 1/4, Dec
+Europa,204000,,False,2,68.0, 3/3, Semidec
+Dambul Rotund,125000,,False,2,57.0, 4/6, Semidec
+Grigorescu,238900,,False,3,78.0, 2/2, Semidec
+Grigorescu,120000,,False,2,52.0, Parter/4, Dec
+Central,235000,,False,2,46.0, 1/4, Dec
+Manastur,118000,,False,2,45.0, 4/8, Dec
+Manastur,155000,,False,3,65.0, 4/4, Dec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Marasti,170000,Comision 0%,False,3,65.0, 4/4, Dec
+Marasti,170000,,False,3,65.0, 4/4, Dec
+Marasti,107000,,False,1,40.0, 4/4, Dec
+Central,100000,,False,1,30.0, 2/2, Dec
+Marasti,178000,,False,2,52.0, 1/4, Dec
+Manastur,95500,,False,2,33.5, 2/4, Semidec
+Manastur,89000,,False,2,37.0, Parter/6, Dec
+Iris,47000,,False,1,22.0, 3/4, Dec
+Gheorgheni,450000,,False,4,85.0, 2/2, Semidec
+Andrei Muresanu,260000,,False,3,93.0, 5/5, Dec
+Sopor,360000,,True,4,120.0, 6/7, Semidec
+Zorilor,126000,,False,1,37.0, 2/5, Dec
+Manastur,97000,,False,2,36.0, Parter/4, Semidec
+Dambul Rotund,89000,,False,2,48.12, Parter/6, Semidec
+Dambul Rotund,95000,,False,2,42.5, 6/6, Semidec
+Marasti,185000,,False,3,72.0, 6/7, Dec
+Marasti,51000,,False,1,18.0, Parter/4, Dec
+Dambul Rotund,118000,,False,2,48.0, 6/6, Semidec
+Marasti,149000,,False,2,54.0, Parter/4, Semidec
+Zorilor,207150,,False,3,100.0, 2/4, Semidec
+Manastur,143000,,False,3,67.0, Parter/4, Dec
+Zorilor,175000,,False,2,58.0, 1/3, Semidec
+Marasti,122000,,False,1,36.0, 8/8, Dec
+Gruia,84000,,False,1,40.0, 2/4, Dec
+Marasti,199000,,False,2,71.0, 1/6, Semidec
+Marasti,210000,,False,2,57.0, 3/10, Dec
+Marasti,168000,,False,3,65.0, 4/4, Dec
+Dambul Rotund,110000,,False,2,45.0, 5/6, Semidec
+Grigorescu,650000,,False,4,130.0, Mansarda/2, Dec
+Central,150000,,False,2,48.0, 4/4, Semidec
+Horea,115000,Comision 0%,False,2,47.0, 4/4, Semidec
+Iris,164990,,False,3,63.0, 1/3, Dec
+Borhanci,129300,,True,2,53.74, 3/3, Semidec
+Ultracentral,95000,,False,2,55.0, Demisol/6, Semidec
+Gheorgheni,150000,,False,3,64.0, 4/4, Dec
+Andrei Muresanu,265000,,False,3,89.0, Parter/4, Semidec
+Manastur,121000,,False,2,60.0, 4/4, Semidec
+Marasti,123000,,False,3,65.0, 4/4, Dec
+Central,125000,,False,3,75.0, Demisol/1, Semidec
+Marasti,115000,,False,2,41.5, Parter/10, Semidec
+Central,135000,,False,1,24.0, Parter/1, Semidec
+Semicentral,228000,Comision 0%,True,3,84.88, Parter/6, Semidec
+Manastur,150000,,False,2,62.0, Parter/5, Dec
+Gheorgheni,129000,,False,2,45.0, 3/4, Semidec
+Dambul Rotund,129000,,False,2,48.0, 6/6, Semidec
+Gruia,53000,,False,1,26.0, Parter, Semidec
+Zorilor,150000,,False,3,108.0, 3/4, Dec
+Dambul Rotund,75000,,False,2,38.8, Parter/6, Semidec
+Manastur,169000,,False,3,64.0, 3/4, Semidec
+Intre Lacuri,159877,,True,3,65.6, 1/6, Semidec
+Manastur,155000,,False,3,65.0, 4/4, Dec
+Europa,220000,,False,3,72.0, 1/3, Dec
+Manastur,125000,,False,2,45.0, 3/10, Dec
+Zorilor,220000,,False,3,100.0, 1/4, Dec
+Grigorescu,170669,,False,3,60.0, 9/9, Semidec
+Gheorgheni,185000,,False,3,74.0, 1/7, Semidec
+Manastur,128000,,False,2,49.0, 7/10, Semidec
+Grigorescu,670000,,False,4,130.0, 2/2, Semidec
+Andrei Muresanu,265000,,False,3,89.0, Parter, Dec
+Marasti,178000,,False,2,54.0, 1/4, Dec
+Iris,231500,,False,4,99.78, 7/9, Semidec
+Zorilor,169000,,False,3,80.0, 2/3, Semidec
+Iris,225000,,False,5,120.0, Parter/1, Semidec
+Marasti,165000,,False,3,64.0, Parter/4, Dec
+Intre Lacuri,169000,,False,2,54.0, 6/7, Dec
+Marasti,163230,,False,2,54.41, 6/6, Semidec
+Central,119000,,False,1,38.0, 2/2, Semidec
+Marasti,270000,,False,3,88.32, Parter/2, Semidec
+Semicentral,150900,,False,2,66.0, 3/6, Semidec
+Europa,135000,Comision 0%,False,1,54.0, Parter/5, Semidec
+Zorilor,205000,,False,3,63.0, Parter/4, Dec
+Zorilor,149000,Comision 0%,False,3,68.0, Parter/4, Dec
+Iris,80000,,False,2,56.0, Parter/2, Semidec
+Aurel Vlaicu,245000,,False,3,95.0, 1/3, Semidec
+Zorilor,152000,,False,3,63.0, 7/8, Dec
+Manastur,155000,,False,3,64.5, Parter/4, Dec
+Manastur,155000,,False,3,70.0, 4/4, Dec
+Manastur,259000,,False,4,80.0, 8/9, Dec
+Buna Ziua,244000,Comision 0%,False,3,88.3, 1/3, Semidec
+Dambul Rotund,85300,,False,2,46.11, 2/2, Semidec
+Intre Lacuri,150000,,False,2,57.0, 3/3, Dec
+Dambul Rotund,108260,,False,2,54.13, Parter/5, Semidec
+Gruia,85000,,False,1,37.0, 3/3, Dec
+Semicentral,98086,,True,1,37.14, 1/7, Semidec
+Manastur,203000,,False,3,65.0, 7/10, Semidec
+Gheorgheni,153000,,False,2,46.0, 9/11, Dec
+Semicentral,147000,,False,2,66.0, 2/6, Semidec
+Manastur,230000,,False,3,78.0, 3/3, Semidec
+Manastur,120000,,False,2,47.0, Parter, Dec
+Gruia,112900,,False,2,49.0, 3/3, Dec
+Manastur,109000,,False,3,48.0, 4/4, Semidec
+Intre Lacuri,169000,,False,3,70.0, Parter/4, Dec
+Manastur,99750,,False,2,35.0, Parter/8, Semidec
+Gheorgheni,365000,,False,4,112.0, 6/7, Dec
+Dambul Rotund,130000,,False,2,48.0, 6/6, Semidec
+Semicentral,145700,,False,2,60.0, 3/6, Semidec
+Manastur,115000,,False,2,49.0, 10/10, Dec
+Borhanci,245000,,False,3,70.0, 2/2, Dec
+Manastur,147500,,False,3,62.0, 1/4, Semidec
+Marasti,62000,,False,1,23.0, 4/4, Semidec
+Manastur,246000,,False,4,83.0, 5/9, Dec
+Manastur,210000,,False,4,94.0, 1/8, Dec
+Semicentral,140875,Comision 0%,True,2,51.94, 5/6, Semidec
+Borhanci,173000,,False,3,61.0, 1/4, Semidec
+Gheorgheni,200000,,False,3,67.0, 3/7, Semidec
+Manastur,93000,,False,2,35.0, 3/4, Semidec
+Grigorescu,114000,,False,2,50.0, 10/10, Dec
+Iris,169000,,False,2,50.0, 4/4, Semidec
+Manastur,136000,Comision 0%,False,3,63.0, Parter/4, Dec
+Andrei Muresanu,245000,,False,3,89.0, Parter/3, Semidec
+Manastur,137000,,False,2,49.0, 7/10, Dec
+Andrei Muresanu,117000,,False,2,38.0, 3/3, Dec
+Manastur,105000,,False,2,47.0, 11/11, Semidec
+Marasti,200000,,False,3,67.0, 3/4, Semidec
+Borhanci,345000,,False,5,200.0, Parter/3, Semidec
+Zorilor,219000,,False,3,67.0, 2/4, Dec
+Buna Ziua,590000,,False,4,198.0, 3/3, Dec
+Manastur,105000,,False,2,39.0, 4/4, Dec
+Horea,133000,,False,2,55.0, Parter/3, Dec
+Dambul Rotund,126000,,False,2,43.0, 3/6, Semidec
+Horea,135000,,False,2,43.0, 4/5, Semidec
+Borhanci,189683,,True,3,78.63, 3/3, Semidec
+Gheorgheni,115000,,False,2,39.0, 5/10, Dec
+Central,160000,,False,1,40.0, 4, Dec
+Iris,165000,,False,3,63.0, 6/9, Semidec
+Iris,165000,,False,3,63.0, 6/10, Semidec
+Central,213500,,True,3,61.0, 1/5, Semidec
+Manastur,100000,,False,2,54.0, Parter/10, Dec
+Gheorgheni,205000,,False,2,60.0, 4/10, Dec
+Buna Ziua,169000,,False,2,62.0, Parter/6, Dec
+Andrei Muresanu,245000,,False,3,90.0, Parter/2, Semidec
+Gheorgheni,135000,,False,2,44.0, 9/10, Semidec
+Iris,299000,,False,5,110.0, 1/1, Dec
+Manastur,127000,,False,2,50.0, 5/10, Dec
+Iris,150000,,False,2,54.0, 1/7, Semidec
+Marasti,169990,,False,3,65.0, 4/4, Dec
+Gheorgheni,162500,,False,2,46.0, 1/7, Semidec
+Iris,140000,,False,3,56.0, 3/3, Semidec
+Semicentral,134700,,False,2,59.0, 1/6, Semidec
+Grigorescu,240000,,False,4,96.0, 3/4, Dec
+Manastur,119999,,False,2,51.0, 3/10, Dec
+Manastur,92999,,False,2,36.0, 3/4, Semidec
+Central,414999,,False,3,121.0, 3/4, Dec
+Iris,163000,,False,3,63.0, 3/7, Dec
+Iris,163000,,False,3,63.0, 6/11, Dec
+Zorilor,252000,,True,3,88.0, 8/10, Semidec
+Grigorescu,286000,,True,3,80.3, 3/4, Semidec
+Ultracentral,350000,,False,5,101.0, 1/2, Dec
+Gheorgheni,139900,,False,1,40.5, 8/9, Semidec
+Central,143000,,False,2,51.0, Parter/1, Semidec
+Dambul Rotund,117000,,False,2,45.0, 5, Dec
+Central,390000,,False,3,80.0, 1/4, Dec
+Central,299000,,False,3,82.0, 1, Dec
+Manastur,106250,,False,3,47.0, 4/4, Semidec
+Manastur,130000,,False,3,60.0, 1/2, Semidec
+Manastur,93000,,False,2,34.0, 2/4, Semidec
+Zorilor,185000,,True,2,67.0, 7/14, Semidec
+Intre Lacuri,127000,,False,2,49.29, 4/8, Dec
+Dambul Rotund,135000,,False,2,58.0, 5/6, Semidec
+Manastur,127000,,False,2,49.0, 7/10, Semidec
+Gara,130000,,False,2,55.0, Parter/3, Semidec
+Borhanci,192455,,True,3,78.68, 3/3, Semidec
+Gheorgheni,189885,,True,3,67.0, 4/6, Dec
+Intre Lacuri,108000,,True,2,54.0, 2/6, Semidec
+Marasti,189000,,False,3,68.0, 3/4, Dec
+Andrei Muresanu,350000,,False,3,88.0, 3/3, Semidec
+Manastur,130000,,False,3,66.0, Parter/10, Dec
+Zorilor,160000,,False,3,62.06, 7/8, Dec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Marasti,150000,,False,3,65.0, 11/12, Dec
+Marasti,179000,,False,2,59.0, 2/3, Dec
+Manastur,118000,,False,2,45.0, 4/8, Dec
+Buna Ziua,121500,,False,2,41.0, Parter/3, Semidec
+Borhanci,187500,Comision 0%,True,3,83.0, 3/3, Semidec
+Central,340000,,False,4,99.0, 2/3, Semidec
+Iris,92000,,False,2,44.0, 3/5, Semidec
+Central,115000,,True,1,44.0, 2/6, Dec
+Gheorgheni,150000,,False,3,58.0, 4, Semidec
+Semicentral,144400,Comision 0%,True,2,56.27, 5/6, Semidec
+Marasti,169000,,False,3,67.0, Parter/4, Dec
+Marasti,144000,,False,3,65.0, 4/4, Dec
+Grigorescu,170000,,False,3,60.0, 9/9, Semidec
+Semicentral,170000,,False,2,45.0, 3/3, Dec
+Central,145000,,False,2,46.0, 2/2, Semidec
+Grigorescu,289000,,False,3,91.0, Parter/2, Semidec
+Central,178000,,False,2,50.0, 1/5, Semidec
+Iris,179900,,False,3,55.0, 3/10, Dec
+Zorilor,135000,,False,3,54.5, 10/15, Dec
+P-ta Mihai Viteazul,170000,,False,3,80.6, 1/1, Semidec
+Marasti,145000,,False,3,65.5, 4/4, Dec
+Calea Turzii,184900,,False,2,68.0, 2/3, Semidec
+Zorilor,147000,,False,3,68.0, Parter/4, Dec
+Manastur,110000,,False,4,53.4, 4/4, Semidec
+Gheorgheni,185000,,False,3,76.0, 6, Dec
+Gheorgheni,200000,,False,3,68.0, 3/8, Semidec
+Marasti,114000,,False,1,42.0, Parter/7, Semidec
+Manastur,135000,,False,2,50.0, Parter/2, Semidec
+Manastur,130900,,False,3,55.0, 1/2, Semidec
+Dambul Rotund,43000,,False,1,21.0, Parter/4, Semidec
+Buna Ziua,235000,,False,3,82.0, Parter/7, Dec
+Iris,115000,,False,2,60.0, Mansarda/6, Semidec
+Manastur,130000,,False,3,59.0, 1/2, Semidec
+Gheorgheni,168000,,False,2,61.0, 1/7, Dec
+Ultracentral,260000,,False,2,80.0, 4/5, Dec
+Manastur,239000,,False,4,80.0, 8/10, Dec
+Iris,165000,,False,3,83.0, 2/3, Semidec
+Manastur,95000,,False,2,40.0, Parter/10, Semidec
+Gheorgheni,135000,,False,2,44.0, Parter/10, Semidec
+Semicentral,140000,,False,2,47.0, 4/4, Dec
+Gara,177000,,True,3,77.0, 5/6, Semidec
+Europa,243000,,True,3,97.71, 1/3, Semidec
+Europa,208000,,True,3,80.0, 1/2, Semidec
+Central,155000,,False,2,48.0, Parter/4, Semidec
+Marasti,180000,,False,2,54.0, Parter/4, Semidec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Marasti,145000,,False,3,64.0, 4/4, Dec
+Manastur,110000,,False,4,54.0, 4/4, Dec
+Zorilor,410000,,False,3,121.0, 3/3, Dec
+Manastur,169000,,False,3,64.0, 3/4, Semidec
+Manastur,133000,,False,3,63.0, Parter/4, Dec
+Iris,125000,,False,1,37.02, 3/9, Dec
+Iris,130000,,False,1,37.0, 3/10, Semidec
+Dambul Rotund,105000,,False,2,55.0, 3/3, Dec
+Borhanci,129300,Comision 0%,True,2,54.0, 3/3, Semidec
+Zorilor,430000,,False,3,90.0, 1/2, Semidec
+Gheorgheni,152000,,False,3,57.0, 4/4, Semidec
+Dambul Rotund,42500,,False,1,23.0, 1/4, Semidec
+Europa,241000,,True,3,97.71, 1/3, Semidec
+Manastur,115000,,False,2,54.0, Parter/6, Semidec
+Dambul Rotund,150000,,False,3,74.9, 4/5, Semidec
+Buna Ziua,246000,,False,3,77.0, 1, Dec
+Intre Lacuri,164000,,False,3,73.0, 1/6, Semidec
+Gheorgheni,160000,Comision 0%,True,2,54.0, 2/6, Semidec
+Central,128000,,False,2,49.0, 3/4, Dec
+Gruia,189000,Comision 0%,False,3,69.0, 1/11, Semidec
+Buna Ziua,224000,,False,3,73.0, 1/2, Dec
+Marasti,74000,,False,1,25.0, Parter/4, Dec
+Dambul Rotund,114000,,False,2,56.91, 1/5, Semidec
+Dambul Rotund,99000,,False,2,46.3, 6/6, Semidec
+Marasti,109000,,False,2,38.0, Parter/1, Dec
+Iris,129000,,False,2,38.0, Parter/8, Semidec
+Manastur,110000,,False,3,61.5, Mansarda/5, Semidec
+Iris,67000,,False,1,24.0, 3, Semidec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Semicentral,174000,,False,2,45.0, 1/3, Semidec
+Manastur,110000,,False,4,54.0, 4/4, Semidec
+Manastur,131000,,False,3,52.0, 3/4, Semidec
+Marasti,61500,,False,1,24.0, 4/4, Dec
+Gheorgheni,185000,,False,3,74.0, 1/7, Semidec
+Ultracentral,165000,,False,2,37.0, Parter/4, Semidec
+Ultracentral,300000,Comision 0%,False,2,72.0, 2/2, Semidec
+Dambul Rotund,105450,Comision 0%,False,2,57.0, Parter, Semidec
+Dambul Rotund,130000,,False,2,52.0, 3/6, Semidec
+Semicentral,87000,,False,2,38.0, 3/3, Dec
+Marasti,185000,,False,2,50.0, 5/6, Semidec
+Manastur,125000,,False,2,50.0, 6/8, Dec
+Gruia,199000,,False,2,70.0, Parter/1, Dec
+Gheorgheni,85000,,False,2,30.0, 4/4, Semidec
+Marasti,170000,,True,3,85.0, 2/3, Semidec
+Iris,114562,,False,3,81.83, Parter/2, Semidec
+Marasti,117605,,False,2,54.0, 1/6, Dec
+Iris,129900,,False,2,40.5, 2/5, Semidec
+Borhanci,183000,,False,2,58.0, 1/2, Dec
+Gheorgheni,232000,,False,2,54.0, 5/6, Semidec
+Marasti,183876,,False,3,87.56, 3/3, Semidec
+Manastur,94900,,False,2,34.0, 2/4, Semidec
+Iris,120000,,False,1,37.0, 3/10, Semidec
+Manastur,110000,,False,4,53.4, 4/4, Semidec
+Manastur,83000,,False,2,37.0, Demisol/4, Semidec
+Sopor,182000,,False,3,74.0, 1/8, Semidec
+Zorilor,117000,,False,2,54.0, Parter/4, Dec
+Borhanci,187475,,True,3,83.26, 3/3, Semidec
+Campului,165000,Comision 0%,False,2,60.0, Parter/3, Dec
+Buna Ziua,175000,,False,2,55.0, 1, Dec
+Marasti,76000,,False,1,28.0, 4/4, Semidec
+Gheorgheni,239000,,False,3,75.0, 8/10, Semidec
+Marasti,155000,,False,3,66.0, Parter/4, Dec
+Central,158000,,False,2,51.0, 3/4, Semidec
+Grigorescu,100000,,False,2,50.0, 10/10, Dec
+Europa,243000,,False,3,97.0, 1/3, Semidec
+Manastur,105000,,False,2,46.8, 11/11, Semidec
+Marasti,180000,,False,4,78.0, 2/4, Dec
+Horea,129000,,False,2,47.0, 1/4, Dec
+Central,265000,,False,1,60.0, 1/1, Semidec
+Marasti,189000,,False,3,68.0, 3/4, Dec
+Marasti,189000,,False,3,63.0, 3/4, Dec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Manastur,133000,,False,2,54.0, 1/10, Dec
+Borhanci,225000,,False,3,80.0, 2/3, Semidec
+Gheorgheni,145000,,False,3,65.0, 4/4, Dec
+Manastur,142000,,False,3,65.0, 4/4, Semidec
+Marasti,170000,,False,4,94.0, 3/4, Semidec
+Gruia,185000,,False,4,73.0, 2/4, Dec
+Gheorgheni,149000,,False,3,57.0, 4/4, Semidec
+Gheorgheni,122000,,False,2,46.0, 3/4, Semidec
+Gheorgheni,122000,,True,1,37.0, 10/10, Dec
+Central,266200,,False,2,108.0, Parter/1, Dec
+Grigorescu,132980,,False,2,45.0, Parter/4, Semidec
+Grigorescu,180000,,False,3,85.0, 4/4, Dec
+Central,200000,,False,2,64.0, 1/1, Semidec
+Central,200000,,False,2,63.16, 1/1, Semidec
+Semicentral,130000,,False,2,43.0, 3, Dec
+Gheorgheni,180000,,False,3,62.0, 3/4, Dec
+Grigorescu,177000,,True,3,64.5, 2/4, Semidec
+Manastur,190000,,False,4,80.0, 3/4, Dec
+Manastur,155000,,False,3,65.0, 4/4, Dec
+Borhanci,195000,,False,3,63.0, 3/4, Dec
+Semicentral,129000,,False,2,47.0, 1/5, Semidec
+Manastur,112000,,False,3,47.0, 3/4, Semidec
+Gruia,258000,,False,3,155.0, Demisol/1, Dec
+Gruia,140000,,False,2,53.0, Parter, Semidec
+Gheorgheni,145000,,False,3,56.0, Parter/3, Dec
+Zorilor,175000,Comision 0%,False,4,76.0, 3/4, Dec
+Gheorgheni,180000,,False,3,62.0, 3/4, Dec
+Semicentral,78000,Comision 0%,False,1,22.0, 4/4, Semidec
+Semicentral,199500,,False,2,64.0, 2/3, Semidec
+Central,131000,,False,2,50.0, 3/3, Semidec
+Ultracentral,168000,,False,2,44.0, Parter/1, Semidec
+Semicentral,155000,,False,2,48.0, Parter/4, Semidec
+Gheorgheni,145000,,False,2,50.47, 4/4, Dec
+Gheorgheni,114000,,False,2,42.0, 3/4, Semidec
+Manastur,130000,,False,3,66.0, Parter/10, Dec
+Central,199000,,False,2,57.0, 1/5, Dec
+Manastur,96000,,False,2,35.0, Parter/8, Semidec
+Marasti,189000,,False,3,68.0, 3/4, Dec
+Andrei Muresanu,170000,,False,2,64.0, 4/4, Semidec
+Grigorescu,130000,,False,2,45.0, Parter, Semidec
+Ultracentral,200000,,False,2,64.0, 1/1, Semidec
+Gheorgheni,170000,,False,4,68.0, 3/4, Dec
+Manastur,142990,Comision 0%,False,3,67.0, Parter/4, Dec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Central,198000,,False,2,59.0, 3/5, Semidec
+Iris,90000,,False,2,50.0, Parter/2, Dec
+Sopor,128000,,False,1,37.94, 3/6, Semidec
+Manastur,167000,,False,3,68.0, 2/7, Dec
+Andrei Muresanu,450000,,False,4,213.0, 3/4, Semidec
+Marasti,115000,,False,2,41.0, Parter/10, Dec
+Manastur,115000,,False,3,54.0, Parter/6, Semidec
+Iris,159000,,False,2,54.0, 2/6, Dec
+Central,250000,,False,3,45.55, Parter/4, Semidec
+Central,145000,,False,2,45.0, Parter/2, Dec
+Central,185000,,False,2,58.0, 5/5, Semidec
+Iris,181000,,True,3,80.68, 7/9, Dec
+Gheorgheni,139000,,False,2,52.0, 6/10, Dec
+Hasdeu,370000,,False,2,82.0, 1/1, Semidec
+Manastur,180000,,False,3,67.0, 1/8, Dec
+Intre Lacuri,127000,Comision 0%,False,2,50.0, 4/8, Dec
+Manastur,165000,,False,3,63.49, 3/4, Semidec
+Manastur,205000,,False,3,65.0, 6/10, Dec
+Gruia,145000,,False,3,68.0, Parter/4, Dec
+Manastur,128500,,False,3,53.0, Parter/7, Semidec
+Ultracentral,260000,,False,4,85.3, 2/2, Semidec
+Manastur,160000,,False,3,67.0, 1/8, Dec
+Manastur,147900,,False,2,53.0, 4/10, Dec
+Manastur,140000,,False,3,65.0, Parter/4, Dec
+Manastur,140000,,False,3,56.0, 3/4, Semidec
+Zorilor,170000,,False,2,54.5, 7/15, Dec
+Gheorgheni,219900,,False,3,65.0, 7/10, Dec
+Intre Lacuri,160000,,False,3,64.0, Parter/4, Dec
+Manastur,134000,,True,3,67.0, 1/4, Semidec
+Manastur,175000,,False,4,78.0, 3/4, Dec
+Semicentral,188000,,False,2,81.0, Parter/4, Semidec
+Manastur,169000,,False,3,77.0, 8/8, Dec
+Central,235000,,False,3,87.25, 1/4, Semidec
+Horea,165000,,False,2,63.0, 2/4, Dec
+Gheorgheni,190000,,False,3,61.0, 1/4, Dec
+Grigorescu,179000,,False,3,85.0, 4/4, Dec
+Ultracentral,389000,Comision 0%,False,4,145.0, 3/3, Semidec
+Central,349000,,False,3,81.0, 1/1, Dec
+Manastur,120000,,False,3,57.0, 9/9, Semidec
+Marasti,140000,,False,2,62.0, 5/5, Dec
+Ultracentral,385000,,False,2,82.0, 1/1, Semidec
+Buna Ziua,184500,,False,2,55.0, 2/4, Semidec
+Iris,97500,Comision 0%,False,3,65.0, Parter, Semidec
+Andrei Muresanu,299000,,False,3,80.0, 1/3, Dec
+P-ta Mihai Viteazul,195000,,False,1,67.9, 1/1, Dec
+Gheorgheni,122000,,False,2,46.0, 3/4, Semidec
+Semicentral,235000,,False,3,73.7, 2/7, Dec
+Intre Lacuri,123000,,False,2,49.0, 4/4, Dec
+Marasti,138000,,False,3,65.0, 4, Dec
+Marasti,270000,,False,4,95.0, 6/7, Dec
+Campului,170000,,False,5,102.0, Demisol/3, Semidec
+Calea Turzii,195000,,False,2,55.0, 2/5, Semidec
+Intre Lacuri,119785,Comision 0%,True,2,53.0, 6/6, Dec
+Manastur,140000,,False,4,70.21, 7/10, Dec
+Marasti,200000,,False,3,67.0, 1/8, Dec
+Iris,185000,,True,3,93.37, 3/4, Dec
+Borhanci,159000,,False,2,60.0, 1/3, Semidec
+Marasti,76000,,False,1,29.0, 4/4, Semidec
+Gheorgheni,170000,,False,4,68.0, 3/4, Dec
+Manastur,158900,,False,2,54.0, 5/10, Dec
+Sopor,285000,,False,3,82.0, 8/10, Dec
+Intre Lacuri,139000,,False,3,65.0, 4/4, Dec
+Marasti,180000,,False,2,62.0, 3/8, Dec
+Manastur,139000,,False,3,82.0, 5/5, Semidec
+Dambul Rotund,142000,,False,3,76.76, 4/6, Semidec
+Manastur,98000,,False,2,54.0, Parter/8, Dec
+Borhanci,227310,,True,3,97.59, 3/3, Semidec
+Buna Ziua,155000,,False,2,52.0, 1/4, Semidec
+Zorilor,359000,,False,6,184.0, 3/3, Semidec
+Marasti,209900,,False,2,58.95, 6/6, Semidec
+Iris,199500,,False,3,90.0, 2/2, Semidec
+Manastur,109000,,False,2,58.0, 1/4, Semidec
+Europa,142000,,False,2,48.0, 1/3, Semidec
+Marasti,200000,,False,4,76.0, 1/8, Dec
+Zorilor,160000,,False,3,63.0, 7/8, Dec
+Zorilor,299000,,False,4,119.0, 2/4, Semidec
+Buna Ziua,144000,,False,2,56.0, Parter, Dec
+Zorilor,139000,,False,3,70.0, 4/4, Dec
+Manastur,175000,,False,5,102.0, Demisol/3, Semidec
+Buna Ziua,141000,,False,2,57.0, Parter/8, Semidec
+Manastur,136000,,False,3,51.0, 3/4, Semidec
+Intre Lacuri,104407,,False,1,37.14, 1/10, Dec
+Manastur,190000,,False,3,98.13, Ultimele 2 e/5, Semidec
+Manastur,94500,,False,2,33.5, 2/4, Semidec
+Zorilor,220000,,False,3,101.0, 1/4, Dec
+Gara,139800,,False,2,56.0, 4, Semidec
+Marasti,170000,,False,3,66.0, 9/10, Semidec
+Manastur,133000,,False,2,69.0, 1/4, Dec
+Buna Ziua,262000,,False,3,116.0, 3/6, Semidec
+Manastur,149000,,False,4,70.0, 8/10, Dec
+Manastur,193000,,False,3,68.0, 6/8, Dec
+Gheorgheni,349000,,False,3,90.0, 1/11, Semidec
+Manastur,154900,,False,3,61.0, 2/3, Semidec
+Iris,227000,,False,3,65.0, Parter/4, Semidec
+Iris,285000,,False,4,94.0, 10/10, Semidec
+Manastur,135000,,False,3,65.0, 3/10, Dec
+Manastur,135000,,False,4,64.0, 3/10, Semidec
+Ultracentral,270000,,False,2,80.0, Parter/1, Dec
+Gheorgheni,217000,,False,3,67.0, 3/10, Dec
+Sopor,129000,,True,2,54.72, 4/7, Semidec
+Buna Ziua,265000,,False,3,90.0, Parter/3, Semidec
+P-ta Mihai Viteazul,162000,Comision 0%,False,1,37.0, Parter/4, Semidec
+Intre Lacuri,163000,,False,3,65.0, Parter, Dec
+Gara,150000,,True,3,60.0, 6/6, Semidec
+Manastur,145000,,False,3,67.0, 9/10, Dec
+Marasti,155000,,False,2,50.0, 1/8, Dec
+Grigorescu,145000,,False,2,52.0, 7/10, Dec
+Marasti,133000,,False,3,53.0, 4/5, Dec
+Marasti,198500,,True,3,69.0, 5, Semidec
+Gheorgheni,159000,,False,2,42.5, 7/7, Semidec
+Marasti,208700,,True,3,70.0, Parter/7, Semidec
+Central,168000,,False,2,44.0, Parter/1, Semidec
+Manastur,125800,,False,3,74.04, Parter/2, Semidec
+Central,165000,,False,1,50.0, Parter/1, Semidec
+Dambul Rotund,105000,,False,2,46.0, Parter/6, Semidec
+Buna Ziua,198000,,False,3,64.0, 2/3, Dec
+Marasti,62500,,False,1,22.0, 1/4, Semidec
+Central,109999,,False,1,44.0, Parter, Circular]
+Europa,397600,,False,3,99.38, 1/2, Semidec
+Ultracentral,150000,,False,2,44.0, Parter/2, Semidec
+Manastur,109000,,False,4,54.0, 4/4, Semidec
+Ultracentral,410000,,False,3,121.0, 3/4, Circular]
+Gheorgheni,145000,,False,2,46.0, 4/4, Semidec
+Marasti,130000,,False,3,64.0, 4/4, Dec
+Manastur,170000,,False,4,78.0, 3/4, Dec
+Marasti,135000,,False,2,54.0, 2/2, Dec
+Manastur,150000,,False,3,67.0, 6/10, Semidec
+Manastur,150000,,False,3,67.0, 6/10, Semidec
+Zorilor,184500,,False,2,55.0, 2/5, Semidec
+Manastur,110000,,False,2,40.0, 10/10, Dec
+Marasti,138000,,False,3,50.0, 4/5, Dec
+Europa,273000,,True,3,98.0, 1/3, Semidec
+Ultracentral,260000,,False,2,80.39, 4/5, Semidec
+Gruia,215000,,False,2,70.0, Parter/1, Semidec
+Buna Ziua,165000,,False,2,66.0, 4, Dec
+Central,350000,,False,6,105.0, Parter/1, Dec
+Central,184000,,False,2,69.0, 1, Semidec
+Buna Ziua,165000,,False,2,65.0, 4/6, Semidec
+Manastur,176000,,False,4,79.0, 1/4, Dec
+Manastur,117000,,False,2,51.0, 3/10, Dec
+Aurel Vlaicu,160000,,False,3,64.0, 4/4, Dec
+Andrei Muresanu,450000,,False,6,148.0, 1/2, Dec
+Gruia,159900,,False,3,70.0, 2/4, Dec
+Manastur,180000,,False,4,72.0, 4/4, Semidec
+Manastur,179990,,False,4,83.0, 2/4, Dec
+Manastur,82500,,False,1,28.0, 1/10, Semidec
+Manastur,137000,,False,3,72.0, 4/4, Semidec
+Manastur,125000,,False,4,56.0, Parter/4, Semidec
+Campului,160000,,False,4,76.0, 2/4, Dec
+Central,167000,,False,3,66.88, 1/4, Semidec
+Zorilor,120000,Comision 0%,False,1,42.47, 2/10, Semidec
+Manastur,155000,,False,3,65.0, 4/4, Dec
+Manastur,150000,,False,3,70.0, 6/10, Semidec
+Gheorgheni,365000,,False,4,120.0, 6/7, Dec
+Central,120000,,False,2,47.0, 1/1, Semidec
+Marasti,160000,,False,3,66.0, Parter/4, Dec
+Manastur,199500,,False,4,94.0, 5/8, Dec
+Grigorescu,289000,,False,3,91.0, Parter/2, Dec
+Buna Ziua,184500,,False,2,55.0, 2/5, Semidec
+Buna Ziua,300000,,False,3,85.0, 8/9, Dec
+Central,187100,,True,4,91.0, 5/6, Semidec
+Marasti,199999,,False,4,76.0, 1/8, Dec
+Intre Lacuri,199000,Comision 0%,False,3,65.0, 6/6, Semidec
+Marasti,197000,,False,2,52.0, 2/3, Semidec
+Dambul Rotund,150000,,False,3,70.0, 5/6, Semidec
+Central,164990,,False,2,55.0, Parter/1, Semidec
+Grigorescu,220000,,False,2,68.0, Parter/10, Semidec
+Europa,167000,,False,2,61.0, Parter/4, Dec
+Ultracentral,195000,,False,2,67.91, 1/1, Semidec
+Manastur,136000,,False,3,51.0, 3/4, Semidec
+Central,410000,,False,3,121.0, 3/4, Dec
+Gheorgheni,270000,,False,3,77.0, 2/4, Dec
+Zorilor,119000,,False,2,52.0, Parter/4, Dec
+Zorilor,299000,,False,4,120.0, 2/3, Semidec
+Manastur,169000,,False,3,65.0, 3/4, Dec
+Buna Ziua,184500,,False,2,55.0, 2/5, Semidec
+Buna Ziua,184500,,False,2,55.0, 2/4, Semidec
+Calea Turzii,184500,,False,2,55.0, 2/5, Dec
+Central,170000,,False,2,50.0, 3/3, Dec
+Grigorescu,115000,,False,2,50.0, 7/10, Dec
+Manastur,172000,,False,4,79.0, 3/4, Dec
+Europa,147500,,False,2,54.8, 1/3, Semidec
+Marasti,159000,,False,3,65.0, 11/11, Semidec
+Europa,178000,,False,3,72.0, Demisol/3, Semidec
+Manastur,129000,,False,2,50.0, 7, Dec
+Central,189000,,False,3,55.0, 1/1, Dec
+Borhanci,229023,Comision 0%,True,3,76.46, 3/3, Semidec
+Europa,167000,,False,4,72.0, Demisol/3, Semidec
+Zorilor,155000,,False,2,47.0, Parter/3, Semidec
+Manastur,175000,,False,4,78.0, 2/4, Dec
+Europa,420000,,False,3,140.0, Parter/3, Semidec
+Manastur,150000,,True,3,68.0, 8/8, Semidec
+Central,183000,,False,1,46.0, 1/3, Semidec
+Iris,57000,,False,1,34.0, 4/4, Dec
+Central,145000,,False,1,39.0, 1/4, Semidec
+Manastur,124000,,False,2,44.0, 3/4, Dec
+Zorilor,299000,,False,4,152.0, 2/4, Dec
+Manastur,139000,,False,3,54.0, 7/7, Semidec
+Zorilor,150000,,False,2,54.0, Parter/4, Semidec
+Central,110000,,False,1,37.0, 4/5, Dec
+Manastur,157000,,False,4,79.0, 4/4, Dec
+Marasti,180000,,False,4,90.0, Parter/4, Dec
+Manastur,119000,,False,2,51.0, 6/10, Dec
+Iris,140000,,False,2,53.0, 2/2, Semidec
+Marasti,129000,,False,2,40.0, 5/9, Semidec
+Semicentral,170000,,False,3,55.0, 1/2, Dec
+Central,163900,Comision 0%,True,3,73.47, 1/4, Dec
+Gheorgheni,289000,,False,3,114.0, 1/8, Semidec
+Dambul Rotund,47000,,False,1,22.0, 1/4, Semidec
+Iris,295000,,False,3,66.0, 6/6, Semidec
+Borhanci,155000,,False,2,59.0, Parter, Dec
+Zorilor,75000,,False,1,25.0, 4/4, Semidec
+Dambul Rotund,172000,,False,4,93.0, 4/5, Semidec
+Iris,170000,,False,3,62.0, 1/3, Semidec
+Grigorescu,220000,,False,2,68.0, 6/10, Semidec
+Manastur,136406,,False,3,76.09, 2/2, Semidec
+Zorilor,262000,,False,3,114.0, 3/6, Semidec
+Plopilor,165000,,False,3,65.0, 4/4, Dec
+Iris,95000,,False,1,41.0, 10/10, Dec
+Europa,149664,,True,2,62.36, 2/6, Semidec
+Manastur,165000,,False,3,66.0, 4/10, Dec
+Gruia,258000,,False,3,170.0, Parter/1, Dec
+Gheorgheni,120000,,False,1,38.0, 10/10, Dec
+Manastur,150000,,False,3,67.0, 6/10, Semidec
+Zorilor,295000,,False,3,82.0, Parter/10, Semidec
+Marasti,138000,,False,3,62.0, Parter/4, Dec
+Manastur,149900,,False,3,61.0, 2/3, Semidec
+Central,349000,,False,3,81.0, 1/1, Dec
+Central,210000,,False,3,94.0, 2/2, Dec
+Zorilor,235000,,False,3,80.0, 3/10, Semidec
+Manastur,210000,,False,2,62.5, 7/15, Dec
+Manastur,239000,,False,4,105.0, 9/10, Dec
+Manastur,209000,,False,3,100.0, 1/2, Dec
+Intre Lacuri,215000,,False,3,65.0, Parter/4, Dec
+Intre Lacuri,199000,,False,3,66.0, 6/6, Semidec
+Marasti,360000,Comision 0%,False,3,80.0, 1/3, Dec
+Manastur,140000,,False,3,65.0, 4/8, Dec
+Grigorescu,240000,,False,4,77.25, 2/4, Semidec
+Gheorgheni,180000,,False,3,65.05, 4/4, Dec
+Buna Ziua,219000,,False,3,86.0, 2/6, Semidec
+Buna Ziua,215000,,False,2,56.0, Parter/8, Dec
+Europa,197000,,False,2,57.0, 6/7, Semidec
+Central,178000,,False,2,80.0, Parter, Dec
+Manastur,76000,,False,1,24.0, 6/8, Semidec
+Horea,151400,,True,3,70.48, 2/6, Semidec
+Iris,57000,,False,1,34.0, Mansarda/1, Semidec
+Iris,95000,,False,2,44.0, 3/5, Dec
+Buna Ziua,185000,Comision 0%,False,2,55.0, 2/5, Semidec
+Manastur,120000,,False,2,51.0, 3/10, Circular]
+Gheorgheni,149000,,False,2,42.0, 11/11, Semidec
+Andrei Muresanu,260000,,False,3,80.0, 1/8, Dec
+Europa,175000,,False,2,59.0, Parter/6, Semidec
+Iris,118745,,False,3,69.85, 2/3, Semidec
+Europa,158000,,False,3,53.0, 3/5, Semidec
+Marasti,170000,,False,2,52.0, 6, Dec
+Manastur,130000,,False,3,65.0, Parter/10, Dec
+Gheorgheni,133000,,False,2,48.0, Parter/4, Dec
+Buna Ziua,138000,,False,3,70.0, Mansarda/3, Semidec
+Iris,129990,,False,3,48.0, Parter/2, Dec
+Marasti,189000,,False,3,66.0, 9/9, Semidec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Buna Ziua,300000,Comision 0%,True,3,85.0, 8/8, Semidec
+Dambul Rotund,116500,,False,3,50.0, Parter/2, Semidec
+Marasti,130000,,False,2,40.0, 8/9, Dec
+Manastur,239000,,False,4,93.0, Parter/8, Dec
+Marasti,75000,,False,1,27.0, 4/4, Semidec
+Europa,374600,,False,4,93.65, 2/2, Semidec
+Gheorgheni,289000,,False,3,114.0, 1/8, Semidec
+Semicentral,199000,,False,2,70.0, 1/6, Semidec
+Manastur,135000,,False,3,63.26, Parter/4, Dec
+Borhanci,238000,,False,3,69.0, 2/2, Semidec
+Manastur,119500,,False,3,65.0, 10/10, Dec
+Manastur,178000,,False,4,78.0, 2/4, Dec
+Iris,94500,,False,1,38.0, Parter/4, Dec
+Manastur,120000,,False,3,65.0, Parter/4, Dec
+Manastur,86000,,False,2,39.0, Parter/6, Semidec
+Iris,139000,,False,2,53.0, 1/8, Semidec
+Dambul Rotund,88000,,False,2,44.0, 6/6, Semidec
+Buna Ziua,290000,,False,3,108.0, 2/3, Semidec
+Gheorgheni,153000,,False,2,47.0, 9/11, Dec
+Manastur,135000,,False,2,55.0, 4/4, Semidec
+Intre Lacuri,212000,,False,3,65.0, Parter/4, Dec
+Manastur,319000,,False,5,176.8, Parter/2, Semidec
+Buna Ziua,135000,,False,2,49.0, 2/2, Semidec
+Marasti,130000,,False,2,54.08, Parter, Dec
+Plopilor,173000,,False,2,58.2, 2/6, Semidec
+Manastur,148200,,False,4,77.0, 4/4, Dec
+Manastur,150000,,False,3,61.0, 3/9, Dec
+Manastur,139000,,False,3,62.0, 4/4, Semidec
+Central,180000,,False,3,64.0, 4/4, Semidec
+Iris,123000,,False,3,58.0, 2/4, Dec
+Manastur,120000,,False,3,58.5, 1/3, Semidec
+Semicentral,340000,,False,3,154.0, 2/2, Dec
+Manastur,239000,,False,4,93.0, Parter/8, Dec
+Manastur,139900,,False,2,51.0, 1/8, Dec
+Grigorescu,285950,,True,3,80.31, 3/4, Semidec
+Manastur,94900,,False,1,35.0, 2/4, Semidec
+Grigorescu,190000,,False,3,70.0, 4/4, Dec
+Central,300000,,False,3,70.0, 8/8, Semidec
+Gheorgheni,109900,,False,2,46.0, Parter/4, Semidec
+Iris,57000,,False,1,34.0, 2/2, Semidec
+Manastur,150000,,False,3,62.0, 6/10, Dec
+Zorilor,275000,,True,4,100.0, 8/10, Dec
+Zorilor,265000,,True,4,95.0, 10/15, Semidec
+Manastur,135000,Comision 0%,False,2,50.03, 4/4, Dec
+Marasti,150000,,False,4,76.0, Parter/7, Semidec
+Manastur,160000,Comision 0%,False,3,68.0, Parter/4, Dec
+Manastur,154000,,False,4,80.0, 4/4, Dec
+Gheorgheni,210000,,False,2,61.0, 4/10, Semidec
+Marasti,209500,,False,3,65.0, 1/4, Dec
+Semicentral,74000,,False,1,23.0, Parter/4, Semidec
+Manastur,139800,,False,3,65.0, 4/4, Dec
+Gheorgheni,299000,Comision 0%,False,3,113.7, 1/8, Semidec
+Intre Lacuri,199000,,False,3,67.0, 6/6, Semidec
+Iris,57000,,False,1,34.0, Mansarda/2, Dec
+Gheorgheni,160000,Comision 0%,False,2,60.0, 8/8, Dec
+Zorilor,163000,,True,3,74.0, 1/4, Dec
+Gheorgheni,120500,,False,2,46.0, 3/4, Semidec
+Manastur,175000,,False,4,82.0, 2/8, Dec
+Zorilor,130000,,False,1,38.0, 4/4, Semidec
+Manastur,129900,,False,3,56.36, 3/4, Semidec
+Marasti,137000,,False,2,40.0, 5/6, Semidec
+Iris,92000,,False,1,38.0, 10/11, Dec
+Iris,120000,,False,2,40.5, 2/6, Semidec
+Gheorgheni,110000,,False,2,38.0, 5/10, Semidec
+Marasti,173400,,False,2,61.5, 6/6, Semidec
+Bulgaria,178000,,False,3,73.0, 5/6, Semidec
+Manastur,143000,,False,3,62.0, Parter/4, Semidec
+Manastur,92900,,False,2,35.0, 3/4, Semidec
+Manastur,148580,,False,3,70.0, 6/10, Dec
+Grigorescu,132000,,False,2,50.0, 4/10, Dec
+Sopor,162265,,False,3,70.55, 1/6, Semidec
+Aurel Vlaicu,199990,,False,4,76.0, 1/8, Dec
+Manastur,148500,,False,3,70.0, 6/10, Dec
+Intre Lacuri,199000,,False,3,66.0, 6/6, Semidec
+Borhanci,195000,,False,3,63.0, 3/3, Dec
+Plopilor,165000,,False,3,63.0, 4/4, Dec
+Manastur,190000,,False,3,85.0, Parter/4, Dec
+Manastur,135000,,False,3,62.0, 3/12, Semidec
+Marasti,210000,,False,3,76.0, 6/9, Dec
+Manastur,130000,,False,3,49.0, Parter/4, Semidec
+Dambul Rotund,117000,,False,2,45.0, 5/6, Dec
+Manastur,122400,Comision 0%,False,2,45.0, Parter/4, Semidec
+Zorilor,252050,,True,5,93.5, 1/4, Semidec
+Central,160000,,False,3,65.0, 1/4, Semidec
+Plopilor,173000,,False,3,63.0, 4/4, Dec
+P-ta Mihai Viteazul,210000,,False,3,58.0, 5/5, Semidec
+Iris,95000,,False,1,37.0, 10/11, Dec
+Zorilor,129900,,False,1,40.0, 3, Dec
+Gruia,260000,,False,3,107.0, Parter/1, Dec
+Central,154990,Comision 0%,False,2,48.0, Parter/10, Semidec
+Marasti,65000,,False,1,21.0, 4/4, Nedec
+Manastur,135000,,False,2,52.0, 1/10, Semidec
+Manastur,154000,,False,3,61.0, 2/9, Dec
+Ultracentral,153000,,False,2,56.0, Parter/1, Dec
+Buna Ziua,137990,,False,3,70.0, Mansarda/4, Semidec
+Central,300000,,False,3,70.0, 8/8, Semidec
+Calea Turzii,106000,,False,1,38.0, Parter/4, Dec
+Gheorgheni,179693,Comision 0%,False,2,55.9, 4, Semidec
+Manastur,142000,,False,3,62.0, 5/8, Dec
+Manastur,155000,,False,3,65.0, Parter/10, Dec
+Campului,260000,,False,3,79.37, 2/2, Semidec
+Horea,119000,,False,2,53.0, 4/4, Semidec
+Dambul Rotund,120000,,False,3,70.0, 1/1, Semidec
+Gheorgheni,181804,Comision 0%,False,2,55.9, 4, Semidec
+Central,129000,,False,2,47.0, 1/5, Dec
+Gara,80000,,False,1,30.0, 1/1, Dec
+Manastur,140000,,False,3,56.0, 3/4, Semidec
+Manastur,145000,,False,3,53.0, Parter/4, Semidec
+Grigorescu,160000,,False,3,65.0, Parter/4, Semidec
+Manastur,94990,,False,1,37.0, 2/4, Semidec
+Manastur,106999,,False,2,58.0, 1/4, Dec
+Gheorgheni,173000,,False,2,54.0, 3/10, Semidec
+Manastur,136000,,False,4,65.0, 2/10, Semidec
+Central,110000,,False,1,27.0, 2/2, Nedec
+Marasti,160000,,False,3,65.0, 4/8, Dec
+Iris,133750,,False,2,54.68, 4/5, Dec
+Manastur,139000,,False,3,58.0, Parter/4, Dec
+Manastur,175000,,False,4,77.0, 2/4, Dec
+Central,159700,Comision 0%,True,3,69.47, 3/4, Dec
+Marasti,135000,,False,2,48.0, 2/4, Dec
+Gheorgheni,99000,Comision 0%,False,2,48.0, Parter/4, Nedec
+Manastur,116433,,False,3,71.0, 3/3, Semidec
+Marasti,221000,,False,3,64.0, 6/8, Dec
+Zorilor,165000,,False,3,63.0, Parter/4, Dec
+Manastur,139900,,False,4,79.0, 4/4, Dec
+Manastur,240000,Comision 0%,True,3,94.02, 14/25, Semidec
+Marasti,209500,,False,3,69.0, 1/4, Dec
+Manastur,149899,,False,3,90.0, Parter/8, Dec
+Calea Turzii,163500,,False,3,53.0, 3/5, Semidec
+Dambul Rotund,118000,,False,2,45.0, 5/6, Semidec
+Manastur,140000,,False,4,65.0, 2/10, Dec
+Marasti,210000,,False,3,77.0, 5/8, Dec
+Manastur,255000,,False,4,101.0, 2/4, Dec
+Iris,165000,,False,3,62.0, 3/3, Semidec
+Central,135000,,False,2,54.0, 2/2, Dec
+Manastur,135000,,False,3,66.0, 5/10, Dec
+Manastur,170000,,False,4,85.0, 3/4, Dec
+Manastur,95000,,False,2,37.0, 2/4, Semidec
+Buna Ziua,184500,,False,2,55.0, 2/4, Semidec
+Gheorgheni,160000,,False,2,54.0, 2/4, Semidec
+Manastur,135000,,False,4,55.0, 4/4, Semidec
+Zorilor,295000,,False,3,82.0, Parter/10, Dec
+Gheorgheni,120000,,False,3,63.0, Mansarda/5, Semidec
+Zorilor,225000,,False,3,73.0, 5/8, Dec
+Manastur,148000,,False,3,65.0, 7/10, Dec
+Marasti,176000,,False,3,75.1, 1/7, Dec
+Marasti,169900,,False,3,65.0, 4/4, Dec
+Central,170000,,False,2,63.0, 4/4, Semidec
+Buna Ziua,590000,,False,4,200.0, Ultimele 2 e/4, Dec
+Manastur,110000,,False,2,39.0, 10/10, Semidec
+Manastur,117000,,False,2,52.0, 1/10, Dec
+Zorilor,252000,,False,4,94.0, 4/4, Semidec
+Zorilor,252050,,True,4,93.5, 4/4, Semidec
+Gruia,173000,,False,4,94.45, 2/4, Dec
+Iris,57000,,False,1,34.0, Ultimele 2 e/2, Semidec
+Manastur,139000,,False,3,67.0, 8/10, Dec
+Manastur,103000,,False,3,47.0, 4/4, Semidec
+Gruia,265000,,False,3,107.0, Parter, Dec
+Marasti,198000,,False,3,68.0, 3/8, Dec
+Manastur,239500,,False,4,100.0, 9/10, Dec
+Manastur,140000,,False,3,61.0, 3/9, Dec
+Gheorgheni,255000,,False,4,77.0, 2/4, Dec
+Manastur,140000,,False,4,68.0, 6/10, Dec
+Manastur,93000,,False,2,35.0, 3/4, Semidec
+Buna Ziua,174999,,False,3,80.0, 4/4, Dec
+Dambul Rotund,130000,,False,2,48.0, 3/4, Dec
+Zorilor,158000,,False,2,53.0, 3/5, Semidec
+Iris,220000,,True,4,112.0, 3/3, Semidec
+Ultracentral,349500,Comision 0%,False,3,81.0, 1/1, Dec
+Gheorgheni,220000,,False,3,67.0, 8/10, Dec
+Manastur,145000,,False,3,62.0, Parter/4, Dec
+Marasti,130000,,False,3,64.0, 4/4, Dec
+Marasti,289000,,False,2,57.0, 4/6, Semidec
+Gheorgheni,149900,,False,2,58.0, 4/4, Dec
+Manastur,139000,,False,4,70.0, 8/10, Semidec
+Manastur,255000,Comision 0%,False,4,100.0, 2/4, Dec
+Manastur,115000,,False,2,50.0, 1/10, Dec
+Manastur,123500,,False,3,52.0, 8/10, Dec
+Central,115000,,False,1,35.0, Parter/1, Semidec
+Zorilor,125000,,False,1,37.0, 2/4, Semidec
+Gheorgheni,188000,,False,2,45.0, 9/10, Semidec
+Zorilor,195000,,False,3,75.0, 2/4, Semidec
+Iris,139000,,False,3,48.0, Parter/2, Semidec
+Manastur,125000,,False,3,66.5, 4/4, Dec
+Manastur,159999,,False,3,79.0, 3/7, Dec
+Manastur,132000,,False,3,63.0, Parter/4, Dec
+Marasti,142000,,False,3,65.0, 4/4, Dec
+Gheorgheni,148000,,False,3,58.0, 4/4, Semidec
+Europa,300000,,False,4,105.0, 2/4, Semidec
+Manastur,150000,,False,3,65.0, 3/9, Dec
+Marasti,180000,,False,3,65.0, 3/10, Dec
+Zorilor,155000,,False,2,53.0, 1/4, Dec
+Manastur,169000,Comision 0%,False,3,63.94, 3/4, Dec
+Marasti,120000,,False,3,50.0, 8/8, Semidec
+Zorilor,175000,,False,4,80.0, 1/4, Dec
+Europa,285000,,False,3,66.0, 6/7, Dec
+Manastur,88000,,False,1,37.0, 1/8, Dec
+Zorilor,120000,,False,2,46.0, 7/15, Semidec
+Iris,130000,,False,3,48.0, Parter/2, Semidec
+Manastur,160000,,False,4,78.0, 1/4, Dec
+Manastur,180000,,False,3,66.0, 4/8, Semidec
+Manastur,160000,,False,3,65.0, 2/4, Dec
+Manastur,212000,,False,3,88.0, 1, Dec
+Zorilor,97000,,False,1,38.0, 7/8, Dec
+Central,100000,,False,1,30.0, 2/2, Dec
+Manastur,175000,,False,2,58.23, 13/14, Semidec
+Manastur,240000,,False,4,120.0, 4/5, Semidec
+Gheorgheni,210000,,False,2,62.0, 4/10, Semidec
+Marasti,74000,,False,1,25.0, Parter/4, Dec
+Buna Ziua,235000,,False,3,78.0, 1/3, Semidec
+Gara,107500,,False,1,38.0, 5/6, Dec
+Zorilor,189500,,False,2,55.0, 7/15, Semidec
+Zorilor,165000,,False,3,68.0, Parter/4, Dec
+Buna Ziua,179900,,False,2,50.0, 1/10, Semidec
+Manastur,144900,,False,3,53.0, Parter/4, Semidec
+Manastur,135000,,False,3,65.0, Parter/4, Dec
+Borhanci,155000,,False,2,58.0, 4/4, Semidec
+Manastur,95000,Comision 0%,False,2,43.0, Parter/2, Dec
+Manastur,120000,,False,2,48.0, 3/8, Dec
+Buna Ziua,180000,,False,2,50.0, 9/10, Semidec
+Andrei Muresanu,117000,,False,1,38.0, 3/3, Semidec
+Sopor,165000,,False,2,55.0, Parter/10, Semidec
+Dambul Rotund,129900,,False,2,53.0, 3/5, Semidec
+Manastur,120000,,False,3,54.0, 1/4, Dec
+Calea Turzii,176000,,False,2,55.0, 1/3, Semidec
+Zorilor,205000,,False,3,63.0, Parter/4, Dec
+Marasti,165000,,False,2,50.0, 4/8, Semidec
+Europa,120000,,False,2,49.0, Mansarda/2, Dec
+Grigorescu,170000,,False,3,69.0, 4/4, Semidec
+Zorilor,167000,,False,3,61.0, Parter/4, Dec
+Marasti,155000,,False,3,64.0, 4/4, Dec
+Sopor,140000,,False,2,41.0, 2/10, Semidec
+Gheorgheni,127000,,False,2,53.0, 4/4, Semidec
+Iris,289000,,False,4,94.0, 10/10, Dec
+Gheorgheni,239000,,False,2,62.0, Parter/6, Dec
+Marasti,137000,Comision 0%,False,1,40.0, 4/6, Semidec
+Buna Ziua,140000,,False,2,43.0, 2/2, Semidec
+Gheorgheni,107000,Comision 0%,False,1,41.0, 4/7, Dec
+Horea,160000,,False,3,65.0, 1/3, Semidec
+Marasti,189000,Comision 0%,False,3,66.0, 9/9, Semidec
+Europa,168000,,False,2,54.0, 4/10, Semidec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Buna Ziua,260000,,False,3,68.0, 4/10, Semidec
+Semicentral,220000,,False,3,60.0, 5/5, Semidec
+Manastur,129000,,False,2,50.0, 7, Dec
+Gheorgheni,173000,,False,2,60.0, 3/10, Semidec
+Manastur,150000,,False,2,55.0, 1/4, Semidec
+Zorilor,89000,,False,1,26.0, 2, Semidec
+Buna Ziua,215000,,False,3,70.0, 2/7, Semidec
+Manastur,133000,,False,3,63.0, Parter/4, Dec
+Iris,130000,,False,3,48.0, Parter/2, Dec
+Iris,130000,,False,2,47.0, Parter/2, Dec
+Zorilor,215000,,False,3,98.3, 3/4, Dec
+Manastur,136000,,False,3,63.0, Parter/4, Dec
+Dambul Rotund,43000,,False,1,22.0, 2/3, Semidec
+Gheorgheni,237000,,False,3,82.0, 3/6, Dec
+Grigorescu,135000,,False,3,58.0, 3/4, Semidec
+Manastur,189000,,False,3,74.0, 1/2, Dec
+Manastur,95000,,False,2,38.0, 1/4, Semidec
+Zorilor,285000,,False,5,117.0, 4/4, Semidec
+Iris,129000,,False,2,58.0, 2/4, Dec
+Manastur,145000,,False,3,66.0, 2/10, Dec
+Grigorescu,145000,,False,3,55.0, 4/4, Semidec
+Zorilor,119000,,False,2,52.0, Parter/4, Dec
+Zorilor,152000,,False,3,63.0, 7/8, Dec
+Borhanci,299900,,False,3,73.0, Parter/2, Semidec
+Marasti,270000,,False,4,95.0, 6/7, Dec
+Marasti,215000,Comision 0%,False,3,74.0, 2/9, Dec
+Semicentral,293875,Comision 0%,True,4,86.91, 6/6, Semidec
+Iris,89000,,False,1,39.0, Parter/4, Semidec
+Manastur,160000,,False,4,80.0, 2/4, Dec
+Iris,130000,,False,3,48.0, Parter/2, Semidec
+Grigorescu,249900,,False,4,79.0, 2/4, Semidec
+Manastur,235000,,False,4,120.0, 4/5, Semidec
+Marasti,200000,,False,4,78.0, 1/8, Dec
+Marasti,76000,,False,1,32.0, 4/4, Semidec
+Buna Ziua,254000,,False,4,120.0, 2/2, Semidec
+Manastur,169000,,False,3,64.5, 4/5, Semidec
+Manastur,95000,,False,1,35.0, 2/4, Semidec
+Gheorgheni,120000,,False,3,63.0, 5/6, Semidec
+Manastur,160000,,False,4,80.0, 2/4, Dec
+Marasti,190000,,False,4,78.0, 1/4, Dec
+Manastur,164900,Comision 0%,False,4,70.0, 4/4, Dec
+Gheorgheni,137500,,False,2,46.0, 6/10, Semidec
+Manastur,139000,,False,4,70.0, 8/10, Dec
+Europa,160000,Comision 0%,False,2,53.0, 3, Dec
+Buna Ziua,155000,,False,3,55.0, 3/4, Semidec
+Manastur,139900,,False,4,71.0, 7/10, Dec
+Central,300000,Comision 0%,False,3,72.0, 8/8, Semidec
+Iris,186000,,True,3,93.0, 3/4, Semidec
+Manastur,100000,Comision 0%,False,2,47.0, 4/5, Dec
+Andrei Muresanu,225000,,False,3,81.0, 4/4, Dec
+Grigorescu,234000,,False,3,78.0, 2/2, Semidec
+Marasti,110000,,False,1,40.0, 4/4, Dec
+Marasti,72000,,False,2,35.0, 5/5, Semidec
+Marasti,219999,,False,4,89.0, 2/4, Semidec
+Manastur,107900,,False,4,54.0, 4/4, Semidec
+Zorilor,220000,,False,3,67.0, 2/4, Dec
+Central,177000,,True,3,68.0, 2/6, Dec
+Central,158700,,True,2,62.0, 2/6, Dec
+Gruia,189000,,True,3,70.0, Parter/1, Dec
+Plopilor,199900,,False,3,94.0, 4/4, Dec
+Zorilor,122000,,False,2,46.0, 7/15, Semidec
+Manastur,193000,,False,3,68.0, 6/8, Dec
+Grigorescu,165000,,False,3,58.25, Parter/2, Semidec
+Manastur,115000,,False,3,55.0, 1/4, Semidec
+Manastur,168990,Comision 0%,False,3,64.0, 3/5, Semidec
+Buna Ziua,162500,,False,2,65.0, 2/3, Semidec
+Manastur,135000,,False,3,66.0, 4/4, Dec
+Gheorgheni,173000,,False,2,60.0, 3/10, Semidec
+Dambul Rotund,129990,,False,2,52.0, 3/6, Semidec
+Europa,120000,,False,2,49.0, 2/2, Dec
+Marasti,80000,,False,1,24.0, 1/4, Semidec
+Zorilor,119900,,False,2,58.45, 3/5, Semidec
+Zorilor,165000,,False,3,68.0, Parter/4, Dec
+Aurel Vlaicu,189000,Comision 0%,False,3,66.0, 9/9, Semidec
+Manastur,138000,,False,3,57.0, 2/4, Dec
+Dambul Rotund,128000,,False,3,68.0, 2/6, Semidec
+Intre Lacuri,70000,,False,1,27.54, 4/4, Dec
+Buna Ziua,258000,,False,3,120.0, 2/2, Semidec
+Gheorgheni,220000,,False,3,74.0, 2/7, Dec
+Gheorgheni,260000,,True,4,115.0, 7/7, Semidec
+Marasti,209500,,False,3,68.0, 1/4, Dec
+Manastur,143000,,False,3,67.0, Parter/4, Dec
+Buna Ziua,300000,,False,3,77.0, Parter/2, Semidec
+Gheorgheni,235000,,False,3,74.0, 2/7, Dec
+Gheorgheni,129990,,False,2,51.0, 10/11, Dec
+Buna Ziua,159990,Comision 0%,False,2,66.0, 3/6, Semidec
+Manastur,135000,,False,3,66.0, 4/4, Dec
+Ultracentral,134000,,False,1,38.0, 1/1, Dec
+Dambul Rotund,90000,,False,2,43.0, 1, Semidec
+Gara,57000,,False,2,37.0, Parter/1, Semidec
+Zorilor,289000,,False,4,118.76, 2/4, Semidec
+Manastur,107990,Comision 0%,False,2,41.0, 2/6, Semidec
+Gheorgheni,280000,,True,4,108.0, 7/7, Semidec
+Manastur,150000,Comision 0%,False,3,70.0, 6/10, Dec
+Iris,114900,,False,2,51.0, 5, Semidec
+Iris,68000,,False,1,51.0, Parter/2, Semidec
+Gruia,168500,,False,3,75.0, 2/4, Dec
+Manastur,94900,,False,1,35.0, 2/4, Semidec
+Manastur,98000,,False,3,57.0, 2/3, Semidec
+Gheorgheni,155000,,False,3,60.0, 2, Dec
+Marasti,108000,,True,2,54.0, 1/6, Semidec
+Central,330000,,False,3,91.0, Demisol/4, Circular]
+Manastur,129000,,False,3,73.0, Parter/4, Semidec
+Borhanci,137000,,False,2,52.0, 1/5, Semidec
+Manastur,125000,,False,2,51.0, 2/4, Semidec
+Central,147000,,False,2,50.0, 4/4, Dec
+Zorilor,260000,,False,4,110.0, 1/2, Semidec
+Central,143800,,False,2,47.0, 4/5, Dec
+Gheorgheni,139000,,False,3,63.0, 9/10, Semidec
+Gheorgheni,195000,,False,3,100.0, Parter, Semidec
+Andrei Muresanu,235000,,False,3,81.0, 4/4, Dec
+Gheorgheni,172000,,False,3,62.0, 3/4, Dec
+Manastur,80900,,False,1,38.0, 3/4, Semidec
+Iris,57000,,False,1,37.0, Parter/1, Semidec
+Marasti,153000,Comision 0%,False,3,56.0, 2/4, Semidec
+Gheorgheni,90000,,False,2,30.0, 3/4, Semidec
+Intre Lacuri,134000,,False,2,50.0, 1/4, Dec
+Iris,18500,,False,1,11.0, 4/4, Nedec
+Central,82000,,False,1,41.0, Parter/2, Dec
+Iris,80000,,False,2,56.0, Parter/2, Semidec
+Iris,18500,,False,1,11.0, 4/4, Semidec
+Manastur,130000,,False,3,66.0, 1/4, Dec
+Marasti,160000,,False,3,60.0, 4/6, Semidec
+Buna Ziua,305000,,False,3,85.0, Ultimele 2 e/9, Semidec
+Manastur,105000,,True,3,68.0, 2/3, Semidec
+Plopilor,239000,,False,4,80.0, 1/4, Dec
+Zorilor,115000,,False,2,56.0, Parter/3, Dec
+Marasti,85000,,False,2,49.0, 5, Dec
+Zorilor,155000,Comision 0%,False,2,49.21, Parter/1, Semidec
+Zorilor,159000,,False,3,63.0, 1/4, Dec
+Manastur,148000,,False,3,67.0, 3/8, Semidec
+Manastur,154900,,False,4,90.0, 1/4, Semidec
+Marasti,80000,,False,1,37.0, 4/4, Dec
+Dambul Rotund,120000,,False,3,67.0, 2/4, Dec
+Marasti,189000,,False,3,68.0, 3/4, Dec
+Grigorescu,234000,,False,3,78.0, 3/3, Semidec
+Manastur,94000,Comision 0%,False,2,42.0, 4/4, Dec
+Central,170000,,False,3,54.0, 1/2, Dec
+Marasti,108000,,True,2,55.0, 2/6, Dec
+Manastur,136000,,False,3,67.0, 8/10, Dec
+Manastur,99600,,True,3,63.87, 1/3, Semidec
+Borhanci,249000,,False,3,70.0, 2/2, Dec
+Central,75000,,False,1,26.0, Parter, Semidec
+Central,65000,,False,1,30.0, Demisol/4, Semidec
+Iris,77000,,False,2,42.0, 3/4, Semidec
+Marasti,149000,,False,3,58.0, 1/7, Semidec
+Marasti,60000,Comision 0%,False,1,23.16, 4/4, Dec
+Iris,18000,,False,1,11.0, 4/4, Dec
+Manastur,80205,,True,2,52.52, 1/3, Semidec
+Andrei Muresanu,229000,,False,4,116.0, 2/3, Dec
+Bulgaria,88000,,False,2,48.0, 1/3, Semidec
+Manastur,199000,,False,2,84.0, Parter, Semidec
+Zorilor,160000,,False,3,71.0, Parter/4, Dec
+Marasti,53000,,False,1,22.0, 1/4, Dec
+Manastur,175000,,False,4,77.0, 3/4, Dec
+Sopor,272500,,True,4,119.0, 7/7, Semidec
+Grigorescu,102500,,False,3,56.0, Parter/3, Semidec
+Zorilor,178000,,False,3,101.0, 4/4, Semidec
+Manastur,120000,,False,2,42.0, 3/4, Semidec
+Manastur,120000,,False,3,56.0, 1/4, Semidec
+Gheorgheni,44900,,False,1,30.0, Parter/10, Dec
+Manastur,125000,,False,3,61.0, 2/7, Semidec
+Zorilor,139000,,False,3,66.0, 4/4, Dec
+Zorilor,110000,,False,2,46.0, 12/14, Semidec
+Marasti,98000,,False,2,38.0, 3/4, Semidec
+Manastur,103000,,False,3,50.0, 1, Dec
+Grigorescu,145000,Comision 0%,False,2,50.0, 3/4, Dec
+Manastur,99490,Comision 0%,False,2,44.12, Parter/2, Dec
+Manastur,120000,,False,3,68.0, 4/4, Dec
+Zorilor,92800,,False,1,44.0, 1/4, Semidec
+Gheorgheni,40000,,False,1,13.0, 4/4, Semidec
+Dambul Rotund,120000,,False,3,55.0, 1/3, Semidec
+Buna Ziua,225000,,False,3,73.0, 1/2, Semidec
+Manastur,85000,,False,1,41.0, Parter/8, Dec
+Gheorgheni,108000,,False,2,44.0, Parter/10, Semidec
+Manastur,81500,,False,2,35.0, 4/4, Semidec
+Manastur,70000,,False,1,25.0, Parter/4, Dec
+Zorilor,175000,,False,3,59.0, 10/14, Semidec
+Gruia,400000,,False,3,80.0, 2/4, Semidec
+Grigorescu,124000,,False,2,45.0, 3/4, Semidec
+Buna Ziua,165000,,False,2,52.0, Parter/4, Semidec
+Manastur,115000,,False,2,54.0, Parter/6, Semidec
+Zorilor,209900,,False,2,64.0, 7/10, Dec
+Calea Turzii,192000,,True,2,65.0, 3/5, Semidec
+Manastur,130000,,False,2,49.0, 7/10, Circular]
+Zorilor,235000,,False,2,58.0, Parter, Semidec
+Dambul Rotund,102500,,False,4,97.0, 1, Dec
+Borhanci,169000,,False,3,60.0, 1/3, Semidec
+Gheorgheni,229000,,False,3,68.0, 10/11, Semidec
+Manastur,199999,,False,2,83.6, Parter, Semidec
+Central,202800,,True,3,78.0, 5/5, Dec
+Iris,125000,,False,2,66.0, 4/4, Dec
+Gheorgheni,175000,,False,3,64.0, 4/4, Dec
+Marasti,67000,,False,1,22.0, Parter/4, Semidec
+Intre Lacuri,108000,,True,2,55.53, 1/6, Semidec
+Manastur,175000,,False,4,80.0, 2/4, Dec
+Zorilor,175000,,False,4,82.0, 3/4, Dec
+Horea,298000,,False,3,82.0, Parter/1, Dec
+Buna Ziua,179900,,False,2,50.0, 1/10, Semidec
+Manastur,99000,,False,2,36.0, 2/4, Semidec
+Gheorgheni,170000,,False,2,52.0, Parter/1, Dec
+Marasti,165000,,False,2,50.0, 5/6, Dec
+Zorilor,180000,,False,3,65.0, 1/4, Dec
+Manastur,210000,,False,3,100.0, 1/2, Semidec
+Zorilor,188000,Comision 0%,True,3,70.0, 7/14, Dec
+Manastur,98000,,False,1,35.0, 2/4, Semidec
+Intre Lacuri,145500,,False,3,64.0, 4, Dec
+Marasti,127500,,False,1,47.0, 5/9, Semidec
+Manastur,145000,,False,2,47.0, Parter/4, Semidec
+Borhanci,173000,,False,3,61.0, 1/4, Semidec
+P-ta Mihai Viteazul,129000,Comision 0%,False,2,48.0, 3/4, Semidec
+Iris,220000,,False,4,94.21, 7/9, Semidec
+Semicentral,195000,,False,3,86.0, 5/5, Semidec
+Gheorgheni,180000,,False,2,52.0, 4/10, Semidec
+Grigorescu,260000,,False,1,49.0, 13/20, Dec
+Iris,120000,,False,2,73.9, Parter/2, Dec
+Manastur,128000,,False,2,49.1, 7/10, Semidec
+Central,139000,,False,1,45.0, 4/6, Semidec
+Dambul Rotund,113820,,True,2,56.91, 2/6, Semidec
+Iris,176500,,False,3,77.66, 2/9, Semidec
+Iris,177500,,False,3,78.04, 3/9, Semidec
+Manastur,137999,,False,2,56.0, 1/4, Semidec
+Marasti,127000,,False,2,52.0, Parter/4, Dec
+Andrei Muresanu,170000,,False,2,64.0, 4/4, Semidec
+Manastur,235000,,False,3,86.0, 10/12, Semidec
+Gheorgheni,150000,,False,3,58.0, 4/4, Semidec
+Iris,150000,,False,2,80.0, 1/2, Dec
+Dambul Rotund,89000,,False,2,41.3, 6/6, Semidec
+Grigorescu,139000,,False,2,47.0, 3/4, Dec
+Zorilor,261000,,False,3,115.0, 3/6, Semidec
+Zorilor,145000,,False,3,52.0, Demisol/4, Dec
+Marasti,145000,,False,3,65.0, 4/4, Dec
+Iris,138000,,False,2,61.13, 7/9, Semidec
+Central,260000,,False,2,74.0, Parter/1, Dec
+Manastur,154999,,False,2,55.0, 5/10, Dec
+Gruia,166000,,False,3,72.0, 4/4, Dec
+Manastur,130000,,False,2,45.0, Parter/4, Semidec
+Dambul Rotund,144000,,False,2,62.0, 5/6, Semidec
+Iris,129500,,False,2,55.99, 2/9, Semidec
+Central,135000,,False,2,45.0, 3/5, Semidec
+Buna Ziua,390000,,False,3,113.0, 5/6, Semidec
+Iris,131500,,False,2,58.51, 1/9, Semidec
+Manastur,156000,,False,3,61.0, 2/9, Dec
+Manastur,134000,,False,2,69.0, 1/4, Dec
+Manastur,109990,,False,4,55.0, 4/4, Semidec
+Central,349000,,False,3,81.0, 1/2, Dec
+Iris,131500,,False,2,58.68, 6/9, Semidec
+Grigorescu,175000,,False,3,80.0, Parter/4, Dec
+Central,170000,,False,2,59.0, 2/5, Semidec
+Dambul Rotund,99900,,False,2,54.0, Parter/6, Semidec
+Manastur,131999,,False,3,145.0, 3, Dec
+Manastur,145000,,False,3,53.0, Parter/4, Semidec
+Borhanci,249000,,False,3,70.0, 3/4, Dec
+Europa,232000,,False,3,68.0, 2/7, Semidec
+Grigorescu,132000,,False,2,50.0, 4/10, Dec
+Dambul Rotund,101000,,False,2,44.0, 1/5, Semidec
+Semicentral,160000,Comision 0%,False,3,65.0, Parter/4, Dec
+Borhanci,150000,,False,2,52.0, 1/4, Semidec
+Iris,65000,,False,1,36.0, Parter/1, Semidec
+Manastur,209000,,False,3,100.0, 1/2, Semidec
+Manastur,169000,Comision 0%,False,5,102.0, Demisol/2, Semidec
+Iris,68000,,False,1,25.0, 1/4, Semidec
+Marasti,186000,,False,4,78.0, 1/4, Dec
+Manastur,135000,,False,2,52.0, Parter/10, Dec
+Marasti,135000,,False,3,63.0, Parter/4, Dec
+Marasti,125000,,False,2,44.0, 1/4, Dec
+Manastur,239999,,False,4,93.0, Parter/8, Dec
+Gheorgheni,215000,,False,3,61.0, 1/4, Dec
+Iris,150000,,False,2,62.0, Parter/3, Dec
+Zorilor,185000,,False,3,65.0, 1/4, Dec
+Dambul Rotund,133000,Comision 0%,False,2,48.0, 6/6, Semidec
+Manastur,90000,,False,1,25.0, 8/10, Dec
+Manastur,35970,,False,1,11.0, 1/4, Semidec
+Grigorescu,118000,,False,2,45.0, 2/4, Semidec
+Central,99999,,False,1,30.0, 2/2, Dec
+Dambul Rotund,89000,Comision 0%,False,2,41.3, 6/6, Dec
+Manastur,111000,,False,2,48.9, 7/8, Semidec
+Manastur,169000,,False,2,65.0, 3/5, Dec
+Manastur,95000,,False,2,38.0, 1/4, Semidec
+Marasti,199000,,False,4,78.0, 1/4, Dec
+Manastur,130000,,False,2,56.0, 7/8, Dec
+Zorilor,170000,,False,3,80.3, 1/5, Semidec
+Marasti,76000,,False,1,23.0, 2/4, Nedec
+Gheorgheni,137500,,False,2,41.0, 2/10, Semidec
+Central,499000,,False,4,135.0, 1/2, Semidec
+Manastur,78555,Comision 0%,True,2,50.53, 2/6, Semidec
+Marasti,220000,,False,3,67.0, 7/8, Dec
+Marasti,135000,,False,3,65.0, 1/10, Dec
+Gheorgheni,143000,,False,3,59.0, 3/4, Semidec
+Borhanci,335000,,False,5,104.55, Parter/3, Semidec
+Andrei Muresanu,175000,,False,2,64.0, 4/4, Semidec
+Grigorescu,240000,,False,4,85.0, 3/4, Dec
+Marasti,58000,,False,1,22.0, 3/4, Semidec
+Buna Ziua,155000,,False,2,52.0, 1/6, Semidec
+Manastur,170000,,False,4,87.0, 1/4, Dec
+Manastur,140000,,False,3,65.6, 1/4, Semidec
+Zorilor,137000,,False,2,54.0, Parter/4, Dec
+Zorilor,248000,,False,4,80.0, 3/4, Dec
+Campului,129900,,False,3,60.0, 1/2, Dec
+Zorilor,199990,Comision 0%,False,3,65.0, 3/4, Dec
+Zorilor,250000,,True,4,100.0, 8/10, Semidec
+Iris,180000,,False,3,55.0, 3/10, Semidec
+Manastur,103000,,False,2,58.0, 1/3, Semidec
+Manastur,115000,,False,2,43.0, 1/10, Dec
+Manastur,84000,,False,2,54.0, 2/4, Semidec
+Manastur,135000,,False,3,67.0, Parter/4, Dec
